@@ -1,0 +1,130 @@
+include:
+  - project/compose.yml
+
+services:
+  zookeeper:
+    image: confluentinc/cp-zookeeper:7.9.4
+    hostname: zookeeper
+    container_name: zookeeper
+    ports:
+      - "32181:32181"
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 32181
+      ZOOKEEPER_TICK_TIME: 2000
+    networks:
+      - kafka-network
+
+  kafka:
+    image: confluentinc/cp-kafka:7.9.4
+    hostname: kafka
+    container_name: kafka
+    depends_on:
+      - zookeeper
+    ports:
+      - "9092:9092"
+      - "29092:29092"
+    environment:
+      KAFKA_BROKER_ID: 1
+      KAFKA_ZOOKEEPER_CONNECT: 'zookeeper:32181'
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:9092,PLAINTEXT_HOST://localhost:29092
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+      KAFKA_GROUP_INITIAL_REBALANCE_DELAY_MS: 0
+      KAFKA_TRANSACTION_STATE_LOG_MIN_ISR: 1
+      KAFKA_TRANSACTION_STATE_LOG_REPLICATION_FACTOR: 1
+    networks:
+      - kafka-network
+
+  connect:
+    build: .
+    image: confluentinc/cp-kafka-connect:7.9.4
+    healthcheck:
+      # Utilisation de CMD-SHELL pour bien forcer le code d'erreur si ça échoue
+      test: ["CMD-SHELL", "curl -s -f http://localhost:8083/connectors || exit 1"]
+      interval: 10s
+      timeout: 10s
+      retries: 30       # On passe à 30 essais (soit 5 minutes maximum d'attente)
+      start_period: 60s # On lui donne 60s de répit total avant même de commencer à tester
+    hostname: connect
+    container_name: connect
+    ports:
+      - '8083:8083'
+    depends_on:
+      - kafka
+    environment:
+      - CONNECT_BOOTSTRAP_SERVERS=kafka:9092
+      - CONNECT_REST_PORT=8083
+      - CONNECT_REST_ADVERTISED_HOST_NAME=connect
+      - CONNECT_GROUP_ID=connect-cluster
+      - CONNECT_CONFIG_STORAGE_TOPIC=connect-configs
+      - CONNECT_OFFSET_STORAGE_TOPIC=connect-offsets
+      - CONNECT_STATUS_STORAGE_TOPIC=connect-status
+      - CONNECT_KEY_CONVERTER=org.apache.kafka.connect.json.JsonConverter
+      - CONNECT_VALUE_CONVERTER=org.apache.kafka.connect.json.JsonConverter
+      - CONNECT_PLUGIN_PATH=/usr/share/java,/usr/share/confluent-hub-components
+      - KAFKA_OPTS=-Djavax.xml.parsers.SAXParserFactory=com.sun.org.apache.xerces.internal.jaxp.SAXParserFactoryImpl
+    volumes:
+      - ./plugins:/usr/share/java/custom-plugins
+      - ./scripts/ensure:/etc/confluent/docker/ensure
+    networks:
+      - kafka-network
+
+  schema-registry:
+    image: confluentinc/cp-schema-registry:7.9.4
+    depends_on:
+      - kafka
+      - namenode
+    environment:
+      SCHEMA_REGISTRY_HOST_NAME: schema-registry
+      SCHEMA_REGISTRY_KAFKASTORE_BOOTSTRAP_SERVERS: 'PLAINTEXT://kafka:9092'
+    ports:
+      - "8081:8081"
+    networks:
+      - kafka-network
+
+  deploy-connectors:
+    image: curlimages/curl:latest
+    depends_on:
+      connect:
+        condition: service_healthy
+    volumes:
+      - ./scripts/deploy-connector.sh:/deploy-connector.sh
+      - ./config/hdfs-sink-config.json:/config/hdfs-sink-config.json
+      - ./config/timescale-pp-all-sink-config.json:/config/timescale-pp-all-sink-config.json
+      - ./config/timescale-sink-config.json:/config/timescale-sink-config.json
+      - ./config/rss-source-config-1.json:/config/rss-source-config-1.json
+      - ./config/rss-source-config-2.json:/config/rss-source-config-2.json
+      - ./config/rss-source-config-3.json:/config/rss-source-config-3.json
+      - ./config/rss-source-config-4.json:/config/rss-source-config-4.json
+      - ./config/rss-source-config-5.json:/config/rss-source-config-5.json
+      - ./config/rss-source-config-6.json:/config/rss-source-config-6.json
+      - ./config/rss-source-config-7.json:/config/rss-source-config-7.json
+      - ./config/rss-source-config-8.json:/config/rss-source-config-8.json
+      - ./config/rss-source-config-9.json:/config/rss-source-config-9.json
+      - ./config/rss-source-config-10.json:/config/rss-source-config-10.json
+      - ./config/rss-source-config-11.json:/config/rss-source-config-11.json
+      - ./config/rss-source-config-12.json:/config/rss-source-config-12.json
+      - ./config/rss-source-config-13.json:/config/rss-source-config-13.json
+      - ./config/rss-source-config-14.json:/config/rss-source-config-14.json
+      - ./config/rss-source-config-15.json:/config/rss-source-config-15.json
+    command: ["sh", "/deploy-connector.sh"]
+    restart: "no"
+    networks:
+      - kafka-network
+
+  kafka-create-topics:
+    image: confluentinc/cp-kafka:7.9.4
+    depends_on:
+      - kafka
+    hostname: kafka-create-topics
+    command: ["bash", "./create-topics.sh"]
+    working_dir: /scripts
+    volumes:
+      - ./scripts:/scripts
+    networks:
+      - kafka-network
+
+networks:
+  kafka-network:
+    name: kafka-network
+    driver: bridge

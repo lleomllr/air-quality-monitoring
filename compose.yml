@@ -1,0 +1,92 @@
+include:
+  - frontend/compose.yml
+  - backend/compose.yml
+  - kafka-stream-job/compose.yml
+  - hdfs-ml/compose.yml
+
+services:
+  timescaledb:
+    image: timescale/timescaledb-ha:pg16
+    container_name: timescaledb
+    environment:
+      - POSTGRES_USER=admin           #Utilisateur de la base de données
+      - POSTGRES_PASSWORD=admin       #Mot de passe
+      - POSTGRES_DB=db_airquality     #Nom de la base de données
+    #Pour tester : docker exec -it timescaledb psql -U admin -d db_airquality
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./backend/src/main/resources/init-timescaledb.sql:/docker-entrypoint-initdb.d/init-timescaledb.sql
+      - ./backend/src/main/resources/cities.jsonl:/data/cities.jsonl
+      - ./backend/src/main/resources/init-states.sql:/data/init-states.sql
+      - timescaledb-volume:/var/lib/postgresql/data
+    networks:
+      - backend-network
+      - kafka-network
+    restart: always
+
+  postgres:
+    image: postgis/postgis:16-3.4
+    container_name: postgres
+    environment:
+      - POSTGRES_USER=admin
+      - POSTGRES_PASSWORD=admin
+      - POSTGRES_DB=clients
+    #Pour tester : docker exec -it postgres psql -U admin -d clients
+    ports:
+      - "5433:5432"  # Port hôte 5433 mappé vers port conteneur 5432
+    volumes:
+      - ./backend/src/main/resources/init-postgresclientdb.sql:/docker-entrypoint-initdb.d/init-postgresclientdb.sql
+      - postgres-volume:/var/lib/postgresql/data
+    networks:
+      - backend-network
+      - kafka-network
+    restart: always
+
+  namenode:
+    build:
+      context: ./hdfs-ml
+    hostname: namenode
+    container_name: namenode
+    environment:
+      - CLUSTER_NAME=test
+      - CORE_CONF_fs_defaultFS=hdfs://namenode:9000
+    ports:
+      - "9000:9000"   # HDFS NameNode RPC
+      - "9870:9870"   # HDFS web UI
+    networks:
+      - kafka-network
+    volumes:
+      - ./hdfs-ml/data:/data
+      - namenode-data:/hadoop/dfs/name
+
+  datanode:
+    image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
+    environment:
+      - CORE_CONF_fs_defaultFS=hdfs://namenode:9000
+    depends_on:
+      - namenode
+    volumes:
+      - datanode-data:/hadoop/dfs/data
+    networks:
+      - kafka-network
+
+networks:
+  backend-network:
+    name: backend-network
+    driver: bridge
+
+  kafka-network:
+    name: kafka-network
+    driver: bridge
+
+volumes:
+  timescaledb-volume:
+    name: "timescaledb-volume"
+
+  postgres-volume:
+    name: "postgres-volume"
+
+  namenode-data:
+
+  datanode-data:

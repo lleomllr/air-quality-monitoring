@@ -1,0 +1,943 @@
+{"city":"Anchorage","state":"AK","latitude":61.2167,"longitude":-149.9,"geometry":{"type":"Point","coordinates":[-149.9,61.2167]}}
+{"city":"Eagle River","state":"AK","latitude":61.3124,"longitude":-149.5678,"geometry":{"type":"Point","coordinates":[-149.5678,61.3124]}}
+{"city":"Fairbanks","state":"AK","latitude":64.8436,"longitude":-147.7231,"geometry":{"type":"Point","coordinates":[-147.7231,64.8436]}}
+{"city":"Juneau","state":"AK","latitude":58.3,"longitude":-134.4167,"geometry":{"type":"Point","coordinates":[-134.4167,58.3]}}
+{"city":"North Pole","state":"AK","latitude":64.7511,"longitude":-147.3519,"geometry":{"type":"Point","coordinates":[-147.3519,64.7511]}}
+{"city":"Birmingham","state":"AL","latitude":33.56,"longitude":-86.75,"geometry":{"type":"Point","coordinates":[-86.75,33.56]}}
+{"city":"Columbus-Phenix City - GA and AL","state":"AL","latitude":32.521,"longitude":-84.9446,"geometry":{"type":"Point","coordinates":[-84.9446,32.521]}}
+{"city":"Decatur","state":"AL","latitude":34.5286,"longitude":-86.9706,"geometry":{"type":"Point","coordinates":[-86.9706,34.5286]}}
+{"city":"Gadsden","state":"AL","latitude":34.0129,"longitude":-86.0254,"geometry":{"type":"Point","coordinates":[-86.0254,34.0129]}}
+{"city":"Huntsville","state":"AL","latitude":34.69,"longitude":-86.59,"geometry":{"type":"Point","coordinates":[-86.59,34.69]}}
+{"city":"Mobile","state":"AL","latitude":30.695,"longitude":-88.039,"geometry":{"type":"Point","coordinates":[-88.039,30.695]}}
+{"city":"Montgomery","state":"AL","latitude":32.3505,"longitude":-86.2923,"geometry":{"type":"Point","coordinates":[-86.2923,32.3505]}}
+{"city":"Tuscaloosa","state":"AL","latitude":33.2144,"longitude":-87.5602,"geometry":{"type":"Point","coordinates":[-87.5602,33.2144]}}
+{"city":"Ward","state":"AL","latitude":32.3625,"longitude":-88.2779,"geometry":{"type":"Point","coordinates":[-88.2779,32.3625]}}
+{"city":"Arkadelphia-Caddo Valley","state":"AR","latitude":34.18,"longitude":-93.1,"geometry":{"type":"Point","coordinates":[-93.1,34.18]}}
+{"city":"Little Rock-North Little Rock","state":"AR","latitude":34.722,"longitude":-92.354,"geometry":{"type":"Point","coordinates":[-92.354,34.722]}}
+{"city":"Ouachita National Forest","state":"AR","latitude":34.62,"longitude":-93.72,"geometry":{"type":"Point","coordinates":[-93.72,34.62]}}
+{"city":"Ozark National Forest","state":"AR","latitude":35.83,"longitude":-93.22,"geometry":{"type":"Point","coordinates":[-93.22,35.83]}}
+{"city":"Springdale (Springdale-Fayetteville-Bentonville)","state":"AR","latitude":36.1796,"longitude":-94.1166,"geometry":{"type":"Point","coordinates":[-94.1166,36.1796]}}
+{"city":"Ajo","state":"AZ","latitude":32.382,"longitude":-112.8575,"geometry":{"type":"Point","coordinates":[-112.8575,32.382]}}
+{"city":"Alamo Lake State Park","state":"AZ","latitude":34.2439,"longitude":-113.5586,"geometry":{"type":"Point","coordinates":[-113.5586,34.2439]}}
+{"city":"Bullhead City","state":"AZ","latitude":35.1661,"longitude":-114.5661,"geometry":{"type":"Point","coordinates":[-114.5661,35.1661]}}
+{"city":"Chiricahua National Park","state":"AZ","latitude":32.0092,"longitude":-109.3891,"geometry":{"type":"Point","coordinates":[-109.3891,32.0092]}}
+{"city":"Douglas","state":"AZ","latitude":31.3492,"longitude":-109.5397,"geometry":{"type":"Point","coordinates":[-109.5397,31.3492]}}
+{"city":"Flagstaff","state":"AZ","latitude":35.2061,"longitude":-111.6528,"geometry":{"type":"Point","coordinates":[-111.6528,35.2061]}}
+{"city":"Gila River Indian Community","state":"AZ","latitude":33.0695,"longitude":-111.7601,"geometry":{"type":"Point","coordinates":[-111.7601,33.0695]}}
+{"city":"Grand Canyon National Park","state":"AZ","latitude":36.055,"longitude":-112.1531,"geometry":{"type":"Point","coordinates":[-112.1531,36.055]}}
+{"city":"Hayden","state":"AZ","latitude":33.0063,"longitude":-110.7865,"geometry":{"type":"Point","coordinates":[-110.7865,33.0063]}}
+{"city":"McDowell","state":"AZ","latitude":33.7241,"longitude":-111.6933,"geometry":{"type":"Point","coordinates":[-111.6933,33.7241]}}
+{"city":"Miami","state":"AZ","latitude":33.399,"longitude":-110.8716,"geometry":{"type":"Point","coordinates":[-110.8716,33.399]}}
+{"city":"Nogales","state":"AZ","latitude":31.3372,"longitude":-110.9367,"geometry":{"type":"Point","coordinates":[-110.9367,31.3372]}}
+{"city":"Payson","state":"AZ","latitude":34.2293,"longitude":-111.3297,"geometry":{"type":"Point","coordinates":[-111.3297,34.2293]}}
+{"city":"Phoenix","state":"AZ","latitude":33.543,"longitude":-112.071,"geometry":{"type":"Point","coordinates":[-112.071,33.543]}}
+{"city":"Prescott","state":"AZ","latitude":34.6121,"longitude":-112.4632,"geometry":{"type":"Point","coordinates":[-112.4632,34.6121]}}
+{"city":"Salt River Pima-Maricopa Indian Community","state":"AZ","latitude":33.488,"longitude":-111.7623,"geometry":{"type":"Point","coordinates":[-111.7623,33.488]}}
+{"city":"Sun City and Surprise","state":"AZ","latitude":33.724,"longitude":-112.45,"geometry":{"type":"Point","coordinates":[-112.45,33.724]}}
+{"city":"Tucson","state":"AZ","latitude":32.222,"longitude":-110.9265,"geometry":{"type":"Point","coordinates":[-110.9265,32.222]}}
+{"city":"West Pinal","state":"AZ","latitude":32.954,"longitude":-111.7622,"geometry":{"type":"Point","coordinates":[-111.7622,32.954]}}
+{"city":"Yuma","state":"AZ","latitude":32.6902,"longitude":-114.6144,"geometry":{"type":"Point","coordinates":[-114.6144,32.6902]}}
+{"city":"Antelope Vly","state":"CA","latitude":34.6694,"longitude":-118.1305,"geometry":{"type":"Point","coordinates":[-118.1305,34.6694]}}
+{"city":"Anza Vly","state":"CA","latitude":33.577,"longitude":-116.789,"geometry":{"type":"Point","coordinates":[-116.789,33.577]}}
+{"city":"Arden Arcade-Del Paso Manor","state":"CA","latitude":38.6138,"longitude":-121.368,"geometry":{"type":"Point","coordinates":[-121.368,38.6138]}}
+{"city":"Atascadero","state":"CA","latitude":35.49,"longitude":-120.69,"geometry":{"type":"Point","coordinates":[-120.69,35.49]}}
+{"city":"Auburn","state":"CA","latitude":38.8963,"longitude":-121.0784,"geometry":{"type":"Point","coordinates":[-121.0784,38.8963]}}
+{"city":"Bakersfield","state":"CA","latitude":35.3577,"longitude":-119.0046,"geometry":{"type":"Point","coordinates":[-119.0046,35.3577]}}
+{"city":"Banning","state":"CA","latitude":33.9208,"longitude":-116.8583,"geometry":{"type":"Point","coordinates":[-116.8583,33.9208]}}
+{"city":"Barstow","state":"CA","latitude":34.8938,"longitude":-117.0244,"geometry":{"type":"Point","coordinates":[-117.0244,34.8938]}}
+{"city":"Big Bear Lake","state":"CA","latitude":34.1734,"longitude":-116.8851,"geometry":{"type":"Point","coordinates":[-116.8851,34.1734]}}
+{"city":"Bishop","state":"CA","latitude":37.3615,"longitude":-118.3952,"geometry":{"type":"Point","coordinates":[-118.3952,37.3615]}}
+{"city":"Border Area","state":"CA","latitude":32.55,"longitude":-116.95,"geometry":{"type":"Point","coordinates":[-116.95,32.55]}}
+{"city":"Brawley","state":"CA","latitude":32.9783,"longitude":-115.5383,"geometry":{"type":"Point","coordinates":[-115.5383,32.9783]}}
+{"city":"C San Bernardino","state":"CA","latitude":34.113,"longitude":-117.371,"geometry":{"type":"Point","coordinates":[-117.371,34.113]}}
+{"city":"C San Bernardino M","state":"CA","latitude":34.2413,"longitude":-117.2755,"geometry":{"type":"Point","coordinates":[-117.2755,34.2413]}}
+{"city":"Calaveras County","state":"CA","latitude":38.2019,"longitude":-120.6803,"geometry":{"type":"Point","coordinates":[-120.6803,38.2019]}}
+{"city":"Calexico","state":"CA","latitude":32.6761,"longitude":-115.4833,"geometry":{"type":"Point","coordinates":[-115.4833,32.6761]}}
+{"city":"Capistrano Vly","state":"CA","latitude":33.58,"longitude":-117.62,"geometry":{"type":"Point","coordinates":[-117.62,33.58]}}
+{"city":"Carmel Valley","state":"CA","latitude":36.4833,"longitude":-121.7319,"geometry":{"type":"Point","coordinates":[-121.7319,36.4833]}}
+{"city":"Carpinteria","state":"CA","latitude":34.4027,"longitude":-119.4575,"geometry":{"type":"Point","coordinates":[-119.4575,34.4027]}}
+{"city":"Carrizo Plains","state":"CA","latitude":35.32,"longitude":-120.0,"geometry":{"type":"Point","coordinates":[-120.0,35.32]}}
+{"city":"Central Coastal","state":"CA","latitude":33.5924,"longitude":-117.7724,"geometry":{"type":"Point","coordinates":[-117.7724,33.5924]}}
+{"city":"Central LA CO","state":"CA","latitude":34.0663,"longitude":-118.2266,"geometry":{"type":"Point","coordinates":[-118.2266,34.0663]}}
+{"city":"Central Orange","state":"CA","latitude":33.813,"longitude":-117.964,"geometry":{"type":"Point","coordinates":[-117.964,33.813]}}
+{"city":"Chester","state":"CA","latitude":40.3019,"longitude":-121.235,"geometry":{"type":"Point","coordinates":[-121.235,40.3019]}}
+{"city":"Chico","state":"CA","latitude":39.7575,"longitude":-121.8422,"geometry":{"type":"Point","coordinates":[-121.8422,39.7575]}}
+{"city":"Coachella Vly","state":"CA","latitude":33.7684,"longitude":-116.375,"geometry":{"type":"Point","coordinates":[-116.375,33.7684]}}
+{"city":"Colfax","state":"CA","latitude":39.1003,"longitude":-120.9528,"geometry":{"type":"Point","coordinates":[-120.9528,39.1003]}}
+{"city":"Concord","state":"CA","latitude":37.97,"longitude":-122.03,"geometry":{"type":"Point","coordinates":[-122.03,37.97]}}
+{"city":"Coso Junction","state":"CA","latitude":36.0446,"longitude":-117.9452,"geometry":{"type":"Point","coordinates":[-117.9452,36.0446]}}
+{"city":"Crescent City","state":"CA","latitude":41.7561,"longitude":-124.2035,"geometry":{"type":"Point","coordinates":[-124.2035,41.7561]}}
+{"city":"Davenport","state":"CA","latitude":37.0119,"longitude":-122.1933,"geometry":{"type":"Point","coordinates":[-122.1933,37.0119]}}
+{"city":"Davis","state":"CA","latitude":38.5448,"longitude":-121.7411,"geometry":{"type":"Point","coordinates":[-121.7411,38.5448]}}
+{"city":"Death Valley","state":"CA","latitude":36.2637,"longitude":-116.8412,"geometry":{"type":"Point","coordinates":[-116.8412,36.2637]}}
+{"city":"Death Valley National Park","state":"CA","latitude":36.5092,"longitude":-116.8481,"geometry":{"type":"Point","coordinates":[-116.8481,36.5092]}}
+{"city":"E San Bernardino","state":"CA","latitude":34.0588,"longitude":-117.1477,"geometry":{"type":"Point","coordinates":[-117.1477,34.0588]}}
+{"city":"E San Fernando Vly","state":"CA","latitude":34.1758,"longitude":-118.3169,"geometry":{"type":"Point","coordinates":[-118.3169,34.1758]}}
+{"city":"E San Gabriel Vly","state":"CA","latitude":34.13,"longitude":-117.89,"geometry":{"type":"Point","coordinates":[-117.89,34.13]}}
+{"city":"East Riverside CO","state":"CA","latitude":33.8077,"longitude":-115.457,"geometry":{"type":"Point","coordinates":[-115.457,33.8077]}}
+{"city":"El Centro","state":"CA","latitude":32.6761,"longitude":-115.4833,"geometry":{"type":"Point","coordinates":[-115.4833,32.6761]}}
+{"city":"Elk Grove","state":"CA","latitude":38.4086,"longitude":-121.3733,"geometry":{"type":"Point","coordinates":[-121.3733,38.4086]}}
+{"city":"Eureka","state":"CA","latitude":40.8021,"longitude":-124.1637,"geometry":{"type":"Point","coordinates":[-124.1637,40.8021]}}
+{"city":"Fairfield","state":"CA","latitude":38.25,"longitude":-122.04,"geometry":{"type":"Point","coordinates":[-122.04,38.25]}}
+{"city":"Folsom","state":"CA","latitude":38.6767,"longitude":-121.1461,"geometry":{"type":"Point","coordinates":[-121.1461,38.6767]}}
+{"city":"Fort Bragg","state":"CA","latitude":39.4373,"longitude":-123.7877,"geometry":{"type":"Point","coordinates":[-123.7877,39.4373]}}
+{"city":"Fremont","state":"CA","latitude":37.55,"longitude":-122.03,"geometry":{"type":"Point","coordinates":[-122.03,37.55]}}
+{"city":"Fresno","state":"CA","latitude":36.7806,"longitude":-119.7929,"geometry":{"type":"Point","coordinates":[-119.7929,36.7806]}}
+{"city":"Gaviota Coast","state":"CA","latitude":34.4897,"longitude":-120.0469,"geometry":{"type":"Point","coordinates":[-120.0469,34.4897]}}
+{"city":"Goleta","state":"CA","latitude":34.4453,"longitude":-119.8277,"geometry":{"type":"Point","coordinates":[-119.8277,34.4453]}}
+{"city":"Gridley","state":"CA","latitude":39.3083,"longitude":-121.7583,"geometry":{"type":"Point","coordinates":[-121.7583,39.3083]}}
+{"city":"Hanford","state":"CA","latitude":36.325,"longitude":-119.647,"geometry":{"type":"Point","coordinates":[-119.647,36.325]}}
+{"city":"Hemet and San Jacinto","state":"CA","latitude":33.7783,"longitude":-116.9127,"geometry":{"type":"Point","coordinates":[-116.9127,33.7783]}}
+{"city":"Hesperia","state":"CA","latitude":34.4163,"longitude":-117.2855,"geometry":{"type":"Point","coordinates":[-117.2855,34.4163]}}
+{"city":"Hollister","state":"CA","latitude":36.8442,"longitude":-121.361,"geometry":{"type":"Point","coordinates":[-121.361,36.8442]}}
+{"city":"Imperial Valley","state":"CA","latitude":32.7919,"longitude":-115.5637,"geometry":{"type":"Point","coordinates":[-115.5637,32.7919]}}
+{"city":"Joshua Tree National Park","state":"CA","latitude":34.0714,"longitude":-116.3906,"geometry":{"type":"Point","coordinates":[-116.3906,34.0714]}}
+{"city":"King City","state":"CA","latitude":36.2092,"longitude":-121.126,"geometry":{"type":"Point","coordinates":[-121.126,36.2092]}}
+{"city":"Lake Elsinore","state":"CA","latitude":33.6763,"longitude":-117.3308,"geometry":{"type":"Point","coordinates":[-117.3308,33.6763]}}
+{"city":"Lassen Volcanic National Park","state":"CA","latitude":40.5403,"longitude":-121.5764,"geometry":{"type":"Point","coordinates":[-121.5764,40.5403]}}
+{"city":"Lee Vining","state":"CA","latitude":37.9608,"longitude":-119.121,"geometry":{"type":"Point","coordinates":[-119.121,37.9608]}}
+{"city":"Lincoln","state":"CA","latitude":38.89,"longitude":-121.3,"geometry":{"type":"Point","coordinates":[-121.3,38.89]}}
+{"city":"Livermore","state":"CA","latitude":37.68,"longitude":-121.77,"geometry":{"type":"Point","coordinates":[-121.77,37.68]}}
+{"city":"Lompoc","state":"CA","latitude":34.6375,"longitude":-120.4564,"geometry":{"type":"Point","coordinates":[-120.4564,34.6375]}}
+{"city":"Lone Pine","state":"CA","latitude":36.6106,"longitude":-118.0596,"geometry":{"type":"Point","coordinates":[-118.0596,36.6106]}}
+{"city":"Madera","state":"CA","latitude":36.968,"longitude":-120.077,"geometry":{"type":"Point","coordinates":[-120.077,36.968]}}
+{"city":"Mammoth Lakes","state":"CA","latitude":37.6481,"longitude":-118.9733,"geometry":{"type":"Point","coordinates":[-118.9733,37.6481]}}
+{"city":"Marina and Seaside","state":"CA","latitude":36.6271,"longitude":-121.83,"geometry":{"type":"Point","coordinates":[-121.83,36.6271]}}
+{"city":"Merced","state":"CA","latitude":37.2963,"longitude":-120.4844,"geometry":{"type":"Point","coordinates":[-120.4844,37.2963]}}
+{"city":"Metro Riverside CO","state":"CA","latitude":34.0005,"longitude":-117.4152,"geometry":{"type":"Point","coordinates":[-117.4152,34.0005]}}
+{"city":"Modesto","state":"CA","latitude":37.6598,"longitude":-120.9939,"geometry":{"type":"Point","coordinates":[-120.9939,37.6598]}}
+{"city":"Mojave","state":"CA","latitude":35.0465,"longitude":-118.1628,"geometry":{"type":"Point","coordinates":[-118.1628,35.0465]}}
+{"city":"Mono Lake","state":"CA","latitude":38.0697,"longitude":-118.9477,"geometry":{"type":"Point","coordinates":[-118.9477,38.0697]}}
+{"city":"Monterey Peninsula","state":"CA","latitude":36.6136,"longitude":-121.9097,"geometry":{"type":"Point","coordinates":[-121.9097,36.6136]}}
+{"city":"Morro Bay","state":"CA","latitude":35.36,"longitude":-120.83,"geometry":{"type":"Point","coordinates":[-120.83,35.36]}}
+{"city":"Mt Shasta","state":"CA","latitude":41.31,"longitude":-122.32,"geometry":{"type":"Point","coordinates":[-122.32,41.31]}}
+{"city":"N Coastal Orange","state":"CA","latitude":33.6738,"longitude":-117.9258,"geometry":{"type":"Point","coordinates":[-117.9258,33.6738]}}
+{"city":"NW Coastal LA","state":"CA","latitude":34.0505,"longitude":-118.4566,"geometry":{"type":"Point","coordinates":[-118.4566,34.0505]}}
+{"city":"NW San Bernardino","state":"CA","latitude":34.1038,"longitude":-117.6291,"geometry":{"type":"Point","coordinates":[-117.6291,34.1038]}}
+{"city":"Napa","state":"CA","latitude":38.33,"longitude":-122.28,"geometry":{"type":"Point","coordinates":[-122.28,38.33]}}
+{"city":"Natomas","state":"CA","latitude":38.6507,"longitude":-121.5067,"geometry":{"type":"Point","coordinates":[-121.5067,38.6507]}}
+{"city":"Niland","state":"CA","latitude":33.2136,"longitude":-115.5444,"geometry":{"type":"Point","coordinates":[-115.5444,33.2136]}}
+{"city":"Nipomo","state":"CA","latitude":35.0555,"longitude":-120.5388,"geometry":{"type":"Point","coordinates":[-120.5388,35.0555]}}
+{"city":"Nipomo CDF","state":"CA","latitude":35.041,"longitude":-120.6031,"geometry":{"type":"Point","coordinates":[-120.6031,35.041]}}
+{"city":"Nipomo Mesa2","state":"CA","latitude":35.04,"longitude":-120.5599,"geometry":{"type":"Point","coordinates":[-120.5599,35.04]}}
+{"city":"Norco and Corona","state":"CA","latitude":33.8584,"longitude":-117.5285,"geometry":{"type":"Point","coordinates":[-117.5285,33.8584]}}
+{"city":"North Highlands","state":"CA","latitude":38.7121,"longitude":-121.3811,"geometry":{"type":"Point","coordinates":[-121.3811,38.7121]}}
+{"city":"North Orange CO","state":"CA","latitude":33.869,"longitude":-117.8903,"geometry":{"type":"Point","coordinates":[-117.8903,33.869]}}
+{"city":"Oakland","state":"CA","latitude":37.8,"longitude":-122.27,"geometry":{"type":"Point","coordinates":[-122.27,37.8]}}
+{"city":"Ojai","state":"CA","latitude":34.448,"longitude":-119.2313,"geometry":{"type":"Point","coordinates":[-119.2313,34.448]}}
+{"city":"Olancha","state":"CA","latitude":36.2755,"longitude":-118.012,"geometry":{"type":"Point","coordinates":[-118.012,36.2755]}}
+{"city":"Owens Lake","state":"CA","latitude":36.4365,"longitude":-117.9601,"geometry":{"type":"Point","coordinates":[-117.9601,36.4365]}}
+{"city":"Oxnard","state":"CA","latitude":34.2524,"longitude":-119.1432,"geometry":{"type":"Point","coordinates":[-119.1432,34.2524]}}
+{"city":"Paradise","state":"CA","latitude":39.7564,"longitude":-121.6044,"geometry":{"type":"Point","coordinates":[-121.6044,39.7564]}}
+{"city":"Paradise Road","state":"CA","latitude":34.5416,"longitude":-119.7914,"geometry":{"type":"Point","coordinates":[-119.7914,34.5416]}}
+{"city":"Paso Robles","state":"CA","latitude":35.63,"longitude":-120.66,"geometry":{"type":"Point","coordinates":[-120.66,35.63]}}
+{"city":"Pechanga Indian Reservation","state":"CA","latitude":33.447,"longitude":-117.088,"geometry":{"type":"Point","coordinates":[-117.088,33.447]}}
+{"city":"Perris Vly","state":"CA","latitude":33.7888,"longitude":-117.2277,"geometry":{"type":"Point","coordinates":[-117.2277,33.7888]}}
+{"city":"Phelan","state":"CA","latitude":34.425,"longitude":-117.5897,"geometry":{"type":"Point","coordinates":[-117.5897,34.425]}}
+{"city":"Pinnacles National Monument","state":"CA","latitude":36.485,"longitude":-121.1556,"geometry":{"type":"Point","coordinates":[-121.1556,36.485]}}
+{"city":"Piru","state":"CA","latitude":34.4043,"longitude":-118.8099,"geometry":{"type":"Point","coordinates":[-118.8099,34.4043]}}
+{"city":"Placerville","state":"CA","latitude":38.7296,"longitude":-120.7992,"geometry":{"type":"Point","coordinates":[-120.7992,38.7296]}}
+{"city":"Point Arena","state":"CA","latitude":38.9088,"longitude":-123.6931,"geometry":{"type":"Point","coordinates":[-123.6931,38.9088]}}
+{"city":"Pomona Walnut Vly","state":"CA","latitude":34.0666,"longitude":-117.75,"geometry":{"type":"Point","coordinates":[-117.75,34.0666]}}
+{"city":"Portola","state":"CA","latitude":39.8083,"longitude":-120.4717,"geometry":{"type":"Point","coordinates":[-120.4717,39.8083]}}
+{"city":"Quincy","state":"CA","latitude":39.9369,"longitude":-120.9478,"geometry":{"type":"Point","coordinates":[-120.9478,39.9369]}}
+{"city":"Red Bluff","state":"CA","latitude":40.1786,"longitude":-122.2347,"geometry":{"type":"Point","coordinates":[-122.2347,40.1786]}}
+{"city":"Red Hills","state":"CA","latitude":35.65,"longitude":-120.38,"geometry":{"type":"Point","coordinates":[-120.38,35.65]}}
+{"city":"Redding","state":"CA","latitude":40.5497,"longitude":-122.3792,"geometry":{"type":"Point","coordinates":[-122.3792,40.5497]}}
+{"city":"Redwood City","state":"CA","latitude":37.48,"longitude":-122.22,"geometry":{"type":"Point","coordinates":[-122.22,37.48]}}
+{"city":"Rio Vista","state":"CA","latitude":38.2183,"longitude":-121.77,"geometry":{"type":"Point","coordinates":[-121.77,38.2183]}}
+{"city":"Roseville-Rocklin","state":"CA","latitude":38.7712,"longitude":-121.2631,"geometry":{"type":"Point","coordinates":[-121.2631,38.7712]}}
+{"city":"S Central LA CO","state":"CA","latitude":33.9288,"longitude":-118.2108,"geometry":{"type":"Point","coordinates":[-118.2108,33.9288]}}
+{"city":"S San Gabriel Vly","state":"CA","latitude":34.0102,"longitude":-118.0686,"geometry":{"type":"Point","coordinates":[-118.0686,34.0102]}}
+{"city":"SW Coastal LA","state":"CA","latitude":33.9541,"longitude":-118.4302,"geometry":{"type":"Point","coordinates":[-118.4302,33.9541]}}
+{"city":"SW San Bernardino","state":"CA","latitude":34.0017,"longitude":-117.6585,"geometry":{"type":"Point","coordinates":[-117.6585,34.0017]}}
+{"city":"Sacramento","state":"CA","latitude":38.567,"longitude":-121.467,"geometry":{"type":"Point","coordinates":[-121.467,38.567]}}
+{"city":"Saddleback Vly","state":"CA","latitude":33.6302,"longitude":-117.675,"geometry":{"type":"Point","coordinates":[-117.675,33.6302]}}
+{"city":"Salinas","state":"CA","latitude":36.6947,"longitude":-121.6222,"geometry":{"type":"Point","coordinates":[-121.6222,36.6947]}}
+{"city":"San Diego Coast","state":"CA","latitude":32.824,"longitude":-117.199,"geometry":{"type":"Point","coordinates":[-117.199,32.824]}}
+{"city":"San Diego Foothills","state":"CA","latitude":32.911,"longitude":-116.876,"geometry":{"type":"Point","coordinates":[-116.876,32.911]}}
+{"city":"San Diego Mesa and Inland Valley","state":"CA","latitude":32.86,"longitude":-117.027,"geometry":{"type":"Point","coordinates":[-117.027,32.86]}}
+{"city":"San Francisco","state":"CA","latitude":37.75,"longitude":-122.43,"geometry":{"type":"Point","coordinates":[-122.43,37.75]}}
+{"city":"San Gabriel Mts","state":"CA","latitude":34.3927,"longitude":-118.1152,"geometry":{"type":"Point","coordinates":[-118.1152,34.3927]}}
+{"city":"San Jose","state":"CA","latitude":37.33,"longitude":-121.9,"geometry":{"type":"Point","coordinates":[-121.9,37.33]}}
+{"city":"San Lorenzo Valley","state":"CA","latitude":37.0881,"longitude":-122.0844,"geometry":{"type":"Point","coordinates":[-122.0844,37.0881]}}
+{"city":"San Luis Obispo","state":"CA","latitude":35.27,"longitude":-120.66,"geometry":{"type":"Point","coordinates":[-120.66,35.27]}}
+{"city":"San Rafael","state":"CA","latitude":37.97,"longitude":-122.52,"geometry":{"type":"Point","coordinates":[-122.52,37.97]}}
+{"city":"Santa Barbara","state":"CA","latitude":34.4286,"longitude":-119.71,"geometry":{"type":"Point","coordinates":[-119.71,34.4286]}}
+{"city":"Santa Clarita Vly","state":"CA","latitude":34.3833,"longitude":-118.5283,"geometry":{"type":"Point","coordinates":[-118.5283,34.3833]}}
+{"city":"Santa Cruz","state":"CA","latitude":36.9858,"longitude":-121.9931,"geometry":{"type":"Point","coordinates":[-121.9931,36.9858]}}
+{"city":"Santa Maria","state":"CA","latitude":34.9345,"longitude":-120.5357,"geometry":{"type":"Point","coordinates":[-120.5357,34.9345]}}
+{"city":"Santa Rosa","state":"CA","latitude":38.45,"longitude":-122.7,"geometry":{"type":"Point","coordinates":[-122.7,38.45]}}
+{"city":"Santa Ynez","state":"CA","latitude":34.6083,"longitude":-120.0747,"geometry":{"type":"Point","coordinates":[-120.0747,34.6083]}}
+{"city":"Scotts Valley","state":"CA","latitude":37.0457,"longitude":-122.0248,"geometry":{"type":"Point","coordinates":[-122.0248,37.0457]}}
+{"city":"Sequoia and Kings Canyon National Parks","state":"CA","latitude":36.4894,"longitude":-118.8269,"geometry":{"type":"Point","coordinates":[-118.8269,36.4894]}}
+{"city":"Simi Valley","state":"CA","latitude":34.2764,"longitude":-118.6838,"geometry":{"type":"Point","coordinates":[-118.6838,34.2764]}}
+{"city":"Sloughhouse","state":"CA","latitude":38.4945,"longitude":-121.2111,"geometry":{"type":"Point","coordinates":[-121.2111,38.4945]}}
+{"city":"South Coastal LA","state":"CA","latitude":33.8236,"longitude":-118.1886,"geometry":{"type":"Point","coordinates":[-118.1886,33.8236]}}
+{"city":"South Lake Tahoe","state":"CA","latitude":38.9099,"longitude":-120.0151,"geometry":{"type":"Point","coordinates":[-120.0151,38.9099]}}
+{"city":"Southeast LA CO","state":"CA","latitude":33.9345,"longitude":-118.0916,"geometry":{"type":"Point","coordinates":[-118.0916,33.9345]}}
+{"city":"Stockton","state":"CA","latitude":37.9699,"longitude":-121.3067,"geometry":{"type":"Point","coordinates":[-121.3067,37.9699]}}
+{"city":"Tahoe City area","state":"CA","latitude":39.166,"longitude":-120.1488,"geometry":{"type":"Point","coordinates":[-120.1488,39.166]}}
+{"city":"Temecula Vly","state":"CA","latitude":33.487,"longitude":-117.144,"geometry":{"type":"Point","coordinates":[-117.144,33.487]}}
+{"city":"Thousand Oaks","state":"CA","latitude":34.2101,"longitude":-118.8705,"geometry":{"type":"Point","coordinates":[-118.8705,34.2101]}}
+{"city":"Trona","state":"CA","latitude":35.7744,"longitude":-117.3722,"geometry":{"type":"Point","coordinates":[-117.3722,35.7744]}}
+{"city":"Truckee","state":"CA","latitude":39.3386,"longitude":-120.1703,"geometry":{"type":"Point","coordinates":[-120.1703,39.3386]}}
+{"city":"Tuolumne County","state":"CA","latitude":37.962,"longitude":-120.2392,"geometry":{"type":"Point","coordinates":[-120.2392,37.962]}}
+{"city":"Twentynine Palms","state":"CA","latitude":34.3167,"longitude":-116.0944,"geometry":{"type":"Point","coordinates":[-116.0944,34.3167]}}
+{"city":"Ukiah","state":"CA","latitude":39.1502,"longitude":-123.2078,"geometry":{"type":"Point","coordinates":[-123.2078,39.1502]}}
+{"city":"Vacaville","state":"CA","latitude":38.3525,"longitude":-121.9617,"geometry":{"type":"Point","coordinates":[-121.9617,38.3525]}}
+{"city":"Victorville","state":"CA","latitude":34.5108,"longitude":-117.3255,"geometry":{"type":"Point","coordinates":[-117.3255,34.5108]}}
+{"city":"Visalia","state":"CA","latitude":36.3254,"longitude":-119.3206,"geometry":{"type":"Point","coordinates":[-119.3206,36.3254]}}
+{"city":"W San Bernardino M","state":"CA","latitude":34.244,"longitude":-117.5328,"geometry":{"type":"Point","coordinates":[-117.5328,34.244]}}
+{"city":"W San Fernando Vly","state":"CA","latitude":34.1991,"longitude":-118.5327,"geometry":{"type":"Point","coordinates":[-118.5327,34.1991]}}
+{"city":"W San Gabriel Vly","state":"CA","latitude":34.1327,"longitude":-118.1272,"geometry":{"type":"Point","coordinates":[-118.1272,34.1327]}}
+{"city":"Watsonville","state":"CA","latitude":36.9153,"longitude":-121.7607,"geometry":{"type":"Point","coordinates":[-121.7607,36.9153]}}
+{"city":"Weaverville","state":"CA","latitude":40.734,"longitude":-122.941,"geometry":{"type":"Point","coordinates":[-122.941,40.734]}}
+{"city":"Western Nevada County","state":"CA","latitude":39.2192,"longitude":-121.0611,"geometry":{"type":"Point","coordinates":[-121.0611,39.2192]}}
+{"city":"Westmorland","state":"CA","latitude":33.0325,"longitude":-115.6225,"geometry":{"type":"Point","coordinates":[-115.6225,33.0325]}}
+{"city":"Willits","state":"CA","latitude":39.4117,"longitude":-123.3527,"geometry":{"type":"Point","coordinates":[-123.3527,39.4117]}}
+{"city":"Willows","state":"CA","latitude":39.5239,"longitude":-122.194,"geometry":{"type":"Point","coordinates":[-122.194,39.5239]}}
+{"city":"Woodland","state":"CA","latitude":38.6784,"longitude":-121.7741,"geometry":{"type":"Point","coordinates":[-121.7741,38.6784]}}
+{"city":"Yosemite National Park","state":"CA","latitude":37.7133,"longitude":-119.7061,"geometry":{"type":"Point","coordinates":[-119.7061,37.7133]}}
+{"city":"Yreka","state":"CA","latitude":41.7268,"longitude":-122.6336,"geometry":{"type":"Point","coordinates":[-122.6336,41.7268]}}
+{"city":"Yuba City and Marysville","state":"CA","latitude":39.1389,"longitude":-121.6175,"geometry":{"type":"Point","coordinates":[-121.6175,39.1389]}}
+{"city":"Yucca Vly","state":"CA","latitude":34.1209,"longitude":-116.4223,"geometry":{"type":"Point","coordinates":[-116.4223,34.1209]}}
+{"city":"Aspen","state":"CO","latitude":39.19,"longitude":-106.82,"geometry":{"type":"Point","coordinates":[-106.82,39.19]}}
+{"city":"Colorado River Valley","state":"CO","latitude":39.497,"longitude":-107.939,"geometry":{"type":"Point","coordinates":[-107.939,39.497]}}
+{"city":"Colorado Springs","state":"CO","latitude":38.7789,"longitude":-104.792,"geometry":{"type":"Point","coordinates":[-104.792,38.7789]}}
+{"city":"Denver-Boulder","state":"CO","latitude":39.9003,"longitude":-105.042,"geometry":{"type":"Point","coordinates":[-105.042,39.9003]}}
+{"city":"Fort Collins","state":"CO","latitude":40.4988,"longitude":-105.034,"geometry":{"type":"Point","coordinates":[-105.034,40.4988]}}
+{"city":"Four Corners Area","state":"CO","latitude":37.299,"longitude":-108.637,"geometry":{"type":"Point","coordinates":[-108.637,37.299]}}
+{"city":"Grand Junction","state":"CO","latitude":39.0666,"longitude":-108.5625,"geometry":{"type":"Point","coordinates":[-108.5625,39.0666]}}
+{"city":"Greeley","state":"CO","latitude":40.4667,"longitude":-104.7225,"geometry":{"type":"Point","coordinates":[-104.7225,40.4667]}}
+{"city":"Lamar","state":"CO","latitude":38.0847,"longitude":-102.6186,"geometry":{"type":"Point","coordinates":[-102.6186,38.0847]}}
+{"city":"Mesa Verde National Park","state":"CO","latitude":37.199,"longitude":-108.471,"geometry":{"type":"Point","coordinates":[-108.471,37.199]}}
+{"city":"Pueblo","state":"CO","latitude":38.3,"longitude":-104.72,"geometry":{"type":"Point","coordinates":[-104.72,38.3]}}
+{"city":"Rocky Mountain National Park","state":"CO","latitude":40.2778,"longitude":-105.5453,"geometry":{"type":"Point","coordinates":[-105.5453,40.2778]}}
+{"city":"San Luis Valley","state":"CO","latitude":37.4694,"longitude":-105.879,"geometry":{"type":"Point","coordinates":[-105.879,37.4694]}}
+{"city":"Southern Ute Indian Reservation","state":"CO","latitude":37.298,"longitude":-108.135,"geometry":{"type":"Point","coordinates":[-108.135,37.298]}}
+{"city":"Telluride","state":"CO","latitude":37.938,"longitude":-107.8132,"geometry":{"type":"Point","coordinates":[-107.8132,37.938]}}
+{"city":"Bridgeport","state":"CT","latitude":41.184,"longitude":-73.19,"geometry":{"type":"Point","coordinates":[-73.19,41.184]}}
+{"city":"Danbury","state":"CT","latitude":41.4014,"longitude":-73.4464,"geometry":{"type":"Point","coordinates":[-73.4464,41.4014]}}
+{"city":"Greenwich","state":"CT","latitude":41.0036,"longitude":-73.5853,"geometry":{"type":"Point","coordinates":[-73.5853,41.0036]}}
+{"city":"Hartford","state":"CT","latitude":41.785,"longitude":-72.63,"geometry":{"type":"Point","coordinates":[-72.63,41.785]}}
+{"city":"Madison","state":"CT","latitude":41.2583,"longitude":-72.5506,"geometry":{"type":"Point","coordinates":[-72.5506,41.2583]}}
+{"city":"Middletown","state":"CT","latitude":41.5519,"longitude":-72.6308,"geometry":{"type":"Point","coordinates":[-72.6308,41.5519]}}
+{"city":"New Haven","state":"CT","latitude":41.3392,"longitude":-72.9214,"geometry":{"type":"Point","coordinates":[-72.9214,41.3392]}}
+{"city":"New London-Groton","state":"CT","latitude":41.343,"longitude":-72.03,"geometry":{"type":"Point","coordinates":[-72.03,41.343]}}
+{"city":"Stafford","state":"CT","latitude":41.9756,"longitude":-72.3867,"geometry":{"type":"Point","coordinates":[-72.3867,41.9756]}}
+{"city":"Stratford","state":"CT","latitude":41.1519,"longitude":-73.1036,"geometry":{"type":"Point","coordinates":[-73.1036,41.1519]}}
+{"city":"Torrington","state":"CT","latitude":41.82,"longitude":-73.2956,"geometry":{"type":"Point","coordinates":[-73.2956,41.82]}}
+{"city":"Waterbury","state":"CT","latitude":41.56,"longitude":-73.05,"geometry":{"type":"Point","coordinates":[-73.05,41.56]}}
+{"city":"Westport","state":"CT","latitude":41.1189,"longitude":-73.3369,"geometry":{"type":"Point","coordinates":[-73.3369,41.1189]}}
+{"city":"Northern Virginia\/DC","state":"DC","latitude":38.919,"longitude":-77.013,"geometry":{"type":"Point","coordinates":[-77.013,38.919]}}
+{"city":"Greater New Castle County","state":"DE","latitude":39.58,"longitude":-75.68,"geometry":{"type":"Point","coordinates":[-75.68,39.58]}}
+{"city":"Kent County","state":"DE","latitude":39.0647,"longitude":-75.579,"geometry":{"type":"Point","coordinates":[-75.579,39.0647]}}
+{"city":"Sussex County","state":"DE","latitude":38.69,"longitude":-75.38,"geometry":{"type":"Point","coordinates":[-75.38,38.69]}}
+{"city":"Wilmington Area","state":"DE","latitude":39.7391,"longitude":-75.5398,"geometry":{"type":"Point","coordinates":[-75.5398,39.7391]}}
+{"city":"Baker County","state":"FL","latitude":30.3931,"longitude":-82.3018,"geometry":{"type":"Point","coordinates":[-82.3018,30.3931]}}
+{"city":"Bay and Gulf Counties","state":"FL","latitude":30.104,"longitude":-85.467,"geometry":{"type":"Point","coordinates":[-85.467,30.104]}}
+{"city":"Belle Glade","state":"FL","latitude":26.7241,"longitude":-80.663,"geometry":{"type":"Point","coordinates":[-80.663,26.7241]}}
+{"city":"Broward County","state":"FL","latitude":26.0102,"longitude":-80.1951,"geometry":{"type":"Point","coordinates":[-80.1951,26.0102]}}
+{"city":"Citrus County","state":"FL","latitude":28.88,"longitude":-82.52,"geometry":{"type":"Point","coordinates":[-82.52,28.88]}}
+{"city":"City of North Miami","state":"FL","latitude":25.895,"longitude":-80.1858,"geometry":{"type":"Point","coordinates":[-80.1858,25.895]}}
+{"city":"Columbia and Suwannee Counties","state":"FL","latitude":30.174,"longitude":-82.793,"geometry":{"type":"Point","coordinates":[-82.793,30.174]}}
+{"city":"Daytona Beach","state":"FL","latitude":29.2072,"longitude":-81.0378,"geometry":{"type":"Point","coordinates":[-81.0378,29.2072]}}
+{"city":"Fort Myers","state":"FL","latitude":26.6317,"longitude":-81.8572,"geometry":{"type":"Point","coordinates":[-81.8572,26.6317]}}
+{"city":"Fort Pierce","state":"FL","latitude":27.4389,"longitude":-80.3356,"geometry":{"type":"Point","coordinates":[-80.3356,27.4389]}}
+{"city":"Gainesville","state":"FL","latitude":29.6519,"longitude":-82.325,"geometry":{"type":"Point","coordinates":[-82.325,29.6519]}}
+{"city":"Hamilton County","state":"FL","latitude":30.476,"longitude":-82.95,"geometry":{"type":"Point","coordinates":[-82.95,30.476]}}
+{"city":"Highlands County","state":"FL","latitude":27.34,"longitude":-81.34,"geometry":{"type":"Point","coordinates":[-81.34,27.34]}}
+{"city":"Holiday","state":"FL","latitude":28.3789,"longitude":-82.4288,"geometry":{"type":"Point","coordinates":[-82.4288,28.3789]}}
+{"city":"Holmes, Jackson, and Washington Counties","state":"FL","latitude":30.732,"longitude":-85.571,"geometry":{"type":"Point","coordinates":[-85.571,30.732]}}
+{"city":"Jacksonville","state":"FL","latitude":30.335,"longitude":-81.658,"geometry":{"type":"Point","coordinates":[-81.658,30.335]}}
+{"city":"Lake County","state":"FL","latitude":28.703,"longitude":-81.779,"geometry":{"type":"Point","coordinates":[-81.779,28.703]}}
+{"city":"Lakeland","state":"FL","latitude":28.0292,"longitude":-81.9722,"geometry":{"type":"Point","coordinates":[-81.9722,28.0292]}}
+{"city":"Melbourne","state":"FL","latitude":28.115,"longitude":-80.6319,"geometry":{"type":"Point","coordinates":[-80.6319,28.115]}}
+{"city":"Miami","state":"FL","latitude":25.776,"longitude":-80.211,"geometry":{"type":"Point","coordinates":[-80.211,25.776]}}
+{"city":"Naples","state":"FL","latitude":26.142,"longitude":-81.7948,"geometry":{"type":"Point","coordinates":[-81.7948,26.142]}}
+{"city":"Nassau County","state":"FL","latitude":30.5927,"longitude":-81.822,"geometry":{"type":"Point","coordinates":[-81.822,30.5927]}}
+{"city":"Ocala","state":"FL","latitude":29.1871,"longitude":-82.1404,"geometry":{"type":"Point","coordinates":[-82.1404,29.1871]}}
+{"city":"Orlando","state":"FL","latitude":28.505,"longitude":-81.374,"geometry":{"type":"Point","coordinates":[-81.374,28.505]}}
+{"city":"Osceola County","state":"FL","latitude":28.102,"longitude":-81.0755,"geometry":{"type":"Point","coordinates":[-81.0755,28.102]}}
+{"city":"Pensacola","state":"FL","latitude":30.59,"longitude":-87.33,"geometry":{"type":"Point","coordinates":[-87.33,30.59]}}
+{"city":"Putnam County","state":"FL","latitude":29.6127,"longitude":-81.9238,"geometry":{"type":"Point","coordinates":[-81.9238,29.6127]}}
+{"city":"Sarasota","state":"FL","latitude":27.3259,"longitude":-82.5499,"geometry":{"type":"Point","coordinates":[-82.5499,27.3259]}}
+{"city":"Seminole County","state":"FL","latitude":28.803,"longitude":-81.27,"geometry":{"type":"Point","coordinates":[-81.27,28.803]}}
+{"city":"St. Petersburg","state":"FL","latitude":27.791,"longitude":-82.74,"geometry":{"type":"Point","coordinates":[-82.74,27.791]}}
+{"city":"Tallahassee","state":"FL","latitude":30.4517,"longitude":-84.2685,"geometry":{"type":"Point","coordinates":[-84.2685,30.4517]}}
+{"city":"Tampa","state":"FL","latitude":27.959,"longitude":-82.482,"geometry":{"type":"Point","coordinates":[-82.482,27.959]}}
+{"city":"West Palm Beach","state":"FL","latitude":26.715,"longitude":-80.062,"geometry":{"type":"Point","coordinates":[-80.062,26.715]}}
+{"city":"Albany","state":"GA","latitude":31.5776,"longitude":-84.0998,"geometry":{"type":"Point","coordinates":[-84.0998,31.5776]}}
+{"city":"Athens-Clarke County","state":"GA","latitude":33.918,"longitude":-83.3445,"geometry":{"type":"Point","coordinates":[-83.3445,33.918]}}
+{"city":"Atlanta","state":"GA","latitude":33.65,"longitude":-84.43,"geometry":{"type":"Point","coordinates":[-84.43,33.65]}}
+{"city":"Brunswick","state":"GA","latitude":31.1696,"longitude":-81.4952,"geometry":{"type":"Point","coordinates":[-81.4952,31.1696]}}
+{"city":"Columbus-Phenix City - GA and AL","state":"GA","latitude":32.521,"longitude":-84.9446,"geometry":{"type":"Point","coordinates":[-84.9446,32.521]}}
+{"city":"Douglas","state":"GA","latitude":31.5131,"longitude":-82.7503,"geometry":{"type":"Point","coordinates":[-82.7503,31.5131]}}
+{"city":"Gainesville","state":"GA","latitude":34.2993,"longitude":-83.8134,"geometry":{"type":"Point","coordinates":[-83.8134,34.2993]}}
+{"city":"Macon","state":"GA","latitude":32.8408,"longitude":-83.6325,"geometry":{"type":"Point","coordinates":[-83.6325,32.8408]}}
+{"city":"Rome","state":"GA","latitude":34.2605,"longitude":-85.3232,"geometry":{"type":"Point","coordinates":[-85.3232,34.2605]}}
+{"city":"Savannah","state":"GA","latitude":32.0683,"longitude":-81.0496,"geometry":{"type":"Point","coordinates":[-81.0496,32.0683]}}
+{"city":"Warner Robins","state":"GA","latitude":32.6056,"longitude":-83.5978,"geometry":{"type":"Point","coordinates":[-83.5978,32.6056]}}
+{"city":"Hilo","state":"HI","latitude":19.7175,"longitude":-155.1103,"geometry":{"type":"Point","coordinates":[-155.1103,19.7175]}}
+{"city":"Honolulu","state":"HI","latitude":21.3046,"longitude":-157.8601,"geometry":{"type":"Point","coordinates":[-157.8601,21.3046]}}
+{"city":"Kahului","state":"HI","latitude":20.8695,"longitude":-156.4924,"geometry":{"type":"Point","coordinates":[-156.4924,20.8695]}}
+{"city":"Kailua-Kona","state":"HI","latitude":19.62,"longitude":-155.97,"geometry":{"type":"Point","coordinates":[-155.97,19.62]}}
+{"city":"Kapolei","state":"HI","latitude":21.3236,"longitude":-158.0886,"geometry":{"type":"Point","coordinates":[-158.0886,21.3236]}}
+{"city":"Keaau","state":"HI","latitude":19.61,"longitude":-155.06,"geometry":{"type":"Point","coordinates":[-155.06,19.61]}}
+{"city":"Kihei","state":"HI","latitude":20.7808,"longitude":-156.4461,"geometry":{"type":"Point","coordinates":[-156.4461,20.7808]}}
+{"city":"Kona","state":"HI","latitude":19.5097,"longitude":-155.9133,"geometry":{"type":"Point","coordinates":[-155.9133,19.5097]}}
+{"city":"Mountain View","state":"HI","latitude":19.57,"longitude":-155.0777,"geometry":{"type":"Point","coordinates":[-155.0777,19.57]}}
+{"city":"Naalehu","state":"HI","latitude":19.06,"longitude":-155.58,"geometry":{"type":"Point","coordinates":[-155.58,19.06]}}
+{"city":"Ocean View","state":"HI","latitude":19.1176,"longitude":-155.7781,"geometry":{"type":"Point","coordinates":[-155.7781,19.1176]}}
+{"city":"Pahala","state":"HI","latitude":19.2038,"longitude":-155.48,"geometry":{"type":"Point","coordinates":[-155.48,19.2038]}}
+{"city":"Sand Island","state":"HI","latitude":21.3039,"longitude":-157.8711,"geometry":{"type":"Point","coordinates":[-157.8711,21.3039]}}
+{"city":"Waikoloa","state":"HI","latitude":19.9431,"longitude":-155.7906,"geometry":{"type":"Point","coordinates":[-155.7906,19.9431]}}
+{"city":"Clinton","state":"IA","latitude":41.844,"longitude":-90.189,"geometry":{"type":"Point","coordinates":[-90.189,41.844]}}
+{"city":"Davenport","state":"IA","latitude":41.522,"longitude":-90.576,"geometry":{"type":"Point","coordinates":[-90.576,41.522]}}
+{"city":"Des Moines","state":"IA","latitude":41.535,"longitude":-93.66,"geometry":{"type":"Point","coordinates":[-93.66,41.535]}}
+{"city":"Emmetsburg","state":"IA","latitude":43.112,"longitude":-94.679,"geometry":{"type":"Point","coordinates":[-94.679,43.112]}}
+{"city":"Iowa City","state":"IA","latitude":41.6606,"longitude":-91.5634,"geometry":{"type":"Point","coordinates":[-91.5634,41.6606]}}
+{"city":"Lake Sugema","state":"IA","latitude":40.69,"longitude":-92.01,"geometry":{"type":"Point","coordinates":[-92.01,40.69]}}
+{"city":"Muscatine","state":"IA","latitude":41.4239,"longitude":-91.0561,"geometry":{"type":"Point","coordinates":[-91.0561,41.4239]}}
+{"city":"Viking Lake State Park","state":"IA","latitude":40.971,"longitude":-95.044,"geometry":{"type":"Point","coordinates":[-95.044,40.971]}}
+{"city":"Waterloo","state":"IA","latitude":42.496,"longitude":-92.4,"geometry":{"type":"Point","coordinates":[-92.4,42.496]}}
+{"city":"Boise","state":"ID","latitude":43.6361,"longitude":-116.2033,"geometry":{"type":"Point","coordinates":[-116.2033,43.6361]}}
+{"city":"Coeur d'Alene","state":"ID","latitude":47.6822,"longitude":-116.7653,"geometry":{"type":"Point","coordinates":[-116.7653,47.6822]}}
+{"city":"Coeur d'Alene Reservation","state":"ID","latitude":47.3387,"longitude":-116.8846,"geometry":{"type":"Point","coordinates":[-116.8846,47.3387]}}
+{"city":"Craters of the Moon National Monument","state":"ID","latitude":43.4606,"longitude":-113.5622,"geometry":{"type":"Point","coordinates":[-113.5622,43.4606]}}
+{"city":"Franklin County","state":"ID","latitude":42.0133,"longitude":-111.8092,"geometry":{"type":"Point","coordinates":[-111.8092,42.0133]}}
+{"city":"Garden Valley","state":"ID","latitude":44.1047,"longitude":-115.9731,"geometry":{"type":"Point","coordinates":[-115.9731,44.1047]}}
+{"city":"Grangeville","state":"ID","latitude":45.9274,"longitude":-116.1059,"geometry":{"type":"Point","coordinates":[-116.1059,45.9274]}}
+{"city":"Idaho City","state":"ID","latitude":43.823,"longitude":-115.8386,"geometry":{"type":"Point","coordinates":[-115.8386,43.823]}}
+{"city":"Idaho Falls","state":"ID","latitude":43.5183,"longitude":-111.9792,"geometry":{"type":"Point","coordinates":[-111.9792,43.5183]}}
+{"city":"Kamiah - Nez Perce Reservation","state":"ID","latitude":46.2094,"longitude":-116.0274,"geometry":{"type":"Point","coordinates":[-116.0274,46.2094]}}
+{"city":"Ketchum","state":"ID","latitude":43.6826,"longitude":-114.3711,"geometry":{"type":"Point","coordinates":[-114.3711,43.6826]}}
+{"city":"Kootenai Tribe","state":"ID","latitude":48.7056,"longitude":-116.3689,"geometry":{"type":"Point","coordinates":[-116.3689,48.7056]}}
+{"city":"Lapwai - Nez Perce Reservation","state":"ID","latitude":46.3972,"longitude":-116.8061,"geometry":{"type":"Point","coordinates":[-116.8061,46.3972]}}
+{"city":"Lewiston","state":"ID","latitude":46.4047,"longitude":-117.0178,"geometry":{"type":"Point","coordinates":[-117.0178,46.4047]}}
+{"city":"McCall","state":"ID","latitude":44.9069,"longitude":-116.1065,"geometry":{"type":"Point","coordinates":[-116.1065,44.9069]}}
+{"city":"Moscow","state":"ID","latitude":46.728,"longitude":-116.9557,"geometry":{"type":"Point","coordinates":[-116.9557,46.728]}}
+{"city":"Nez Perce Reservation","state":"ID","latitude":46.335,"longitude":-116.5359,"geometry":{"type":"Point","coordinates":[-116.5359,46.335]}}
+{"city":"Pinehurst","state":"ID","latitude":47.5364,"longitude":-116.2367,"geometry":{"type":"Point","coordinates":[-116.2367,47.5364]}}
+{"city":"Pocatello","state":"ID","latitude":42.8767,"longitude":-112.4472,"geometry":{"type":"Point","coordinates":[-112.4472,42.8767]}}
+{"city":"Salmon","state":"ID","latitude":45.1819,"longitude":-113.8903,"geometry":{"type":"Point","coordinates":[-113.8903,45.1819]}}
+{"city":"Sandpoint","state":"ID","latitude":48.2918,"longitude":-116.5566,"geometry":{"type":"Point","coordinates":[-116.5566,48.2918]}}
+{"city":"St. Maries","state":"ID","latitude":47.3166,"longitude":-116.5703,"geometry":{"type":"Point","coordinates":[-116.5703,47.3166]}}
+{"city":"Twin Falls","state":"ID","latitude":42.5641,"longitude":-114.4462,"geometry":{"type":"Point","coordinates":[-114.4462,42.5641]}}
+{"city":"Aurora and Elgin","state":"IL","latitude":41.9151,"longitude":-88.3059,"geometry":{"type":"Point","coordinates":[-88.3059,41.9151]}}
+{"city":"Bloomington and Normal","state":"IL","latitude":40.493,"longitude":-88.9803,"geometry":{"type":"Point","coordinates":[-88.9803,40.493]}}
+{"city":"Champaign","state":"IL","latitude":40.1112,"longitude":-88.2559,"geometry":{"type":"Point","coordinates":[-88.2559,40.1112]}}
+{"city":"Chicago","state":"IL","latitude":41.964,"longitude":-87.659,"geometry":{"type":"Point","coordinates":[-87.659,41.964]}}
+{"city":"Decatur","state":"IL","latitude":39.8529,"longitude":-88.9369,"geometry":{"type":"Point","coordinates":[-88.9369,39.8529]}}
+{"city":"Joliet and Will County","state":"IL","latitude":41.4681,"longitude":-87.9734,"geometry":{"type":"Point","coordinates":[-87.9734,41.4681]}}
+{"city":"Lake County","state":"IL","latitude":42.3243,"longitude":-87.9317,"geometry":{"type":"Point","coordinates":[-87.9317,42.3243]}}
+{"city":"North and West Suburbs (Chicago)","state":"IL","latitude":42.06,"longitude":-87.8636,"geometry":{"type":"Point","coordinates":[-87.8636,42.06]}}
+{"city":"Peoria","state":"IL","latitude":40.687,"longitude":-89.607,"geometry":{"type":"Point","coordinates":[-89.607,40.687]}}
+{"city":"Rock Island-Moline","state":"IL","latitude":41.5148,"longitude":-90.5173,"geometry":{"type":"Point","coordinates":[-90.5173,41.5148]}}
+{"city":"Rockford","state":"IL","latitude":42.287,"longitude":-89.077,"geometry":{"type":"Point","coordinates":[-89.077,42.287]}}
+{"city":"South and West Suburbs (Chicago)","state":"IL","latitude":41.7608,"longitude":-87.8932,"geometry":{"type":"Point","coordinates":[-87.8932,41.7608]}}
+{"city":"Springfield","state":"IL","latitude":39.844,"longitude":-89.605,"geometry":{"type":"Point","coordinates":[-89.605,39.844]}}
+{"city":"St. Louis (Metro-east)","state":"IL","latitude":38.727,"longitude":-89.959,"geometry":{"type":"Point","coordinates":[-89.959,38.727]}}
+{"city":"Bloomington","state":"IN","latitude":39.1594,"longitude":-86.5047,"geometry":{"type":"Point","coordinates":[-86.5047,39.1594]}}
+{"city":"Columbus","state":"IN","latitude":39.2375,"longitude":-85.8913,"geometry":{"type":"Point","coordinates":[-85.8913,39.2375]}}
+{"city":"Evansville","state":"IN","latitude":38.022,"longitude":-87.569,"geometry":{"type":"Point","coordinates":[-87.569,38.022]}}
+{"city":"Fort Wayne","state":"IN","latitude":41.095,"longitude":-85.1,"geometry":{"type":"Point","coordinates":[-85.1,41.095]}}
+{"city":"Hammond-Gary","state":"IN","latitude":41.631,"longitude":-87.087,"geometry":{"type":"Point","coordinates":[-87.087,41.631]}}
+{"city":"Indianapolis","state":"IN","latitude":39.749,"longitude":-86.186,"geometry":{"type":"Point","coordinates":[-86.186,39.749]}}
+{"city":"Kokomo","state":"IN","latitude":40.6929,"longitude":-86.1219,"geometry":{"type":"Point","coordinates":[-86.1219,40.6929]}}
+{"city":"Lafayette","state":"IN","latitude":40.4317,"longitude":-86.8525,"geometry":{"type":"Point","coordinates":[-86.8525,40.4317]}}
+{"city":"Muncie","state":"IN","latitude":40.3497,"longitude":-84.9492,"geometry":{"type":"Point","coordinates":[-84.9492,40.3497]}}
+{"city":"Perry County","state":"IN","latitude":38.1152,"longitude":-86.6033,"geometry":{"type":"Point","coordinates":[-86.6033,38.1152]}}
+{"city":"South Bend","state":"IN","latitude":41.694,"longitude":-86.237,"geometry":{"type":"Point","coordinates":[-86.237,41.694]}}
+{"city":"Terre Haute","state":"IN","latitude":39.486,"longitude":-87.401,"geometry":{"type":"Point","coordinates":[-87.401,39.486]}}
+{"city":"Vincennes","state":"IN","latitude":38.8583,"longitude":-87.477,"geometry":{"type":"Point","coordinates":[-87.477,38.8583]}}
+{"city":"Cedar Bluff","state":"KS","latitude":38.7703,"longitude":-99.7636,"geometry":{"type":"Point","coordinates":[-99.7636,38.7703]}}
+{"city":"Chanute","state":"KS","latitude":37.677,"longitude":-95.4759,"geometry":{"type":"Point","coordinates":[-95.4759,37.677]}}
+{"city":"Dodge City","state":"KS","latitude":37.7667,"longitude":-100.0333,"geometry":{"type":"Point","coordinates":[-100.0333,37.7667]}}
+{"city":"Goodland","state":"KS","latitude":39.3428,"longitude":-101.703,"geometry":{"type":"Point","coordinates":[-101.703,39.3428]}}
+{"city":"Topeka","state":"KS","latitude":39.0243,"longitude":-95.7113,"geometry":{"type":"Point","coordinates":[-95.7113,39.0243]}}
+{"city":"Wichita","state":"KS","latitude":37.7011,"longitude":-97.3139,"geometry":{"type":"Point","coordinates":[-97.3139,37.7011]}}
+{"city":"Ashland","state":"KY","latitude":38.4784,"longitude":-82.6379,"geometry":{"type":"Point","coordinates":[-82.6379,38.4784]}}
+{"city":"Bowling Green","state":"KY","latitude":36.9685,"longitude":-86.4808,"geometry":{"type":"Point","coordinates":[-86.4808,36.9685]}}
+{"city":"Hazard","state":"KY","latitude":37.28,"longitude":-83.22,"geometry":{"type":"Point","coordinates":[-83.22,37.28]}}
+{"city":"Lexington","state":"KY","latitude":38.0491,"longitude":-84.4999,"geometry":{"type":"Point","coordinates":[-84.4999,38.0491]}}
+{"city":"Louisville","state":"KY","latitude":38.264,"longitude":-85.712,"geometry":{"type":"Point","coordinates":[-85.712,38.264]}}
+{"city":"Mammoth Cave National Park","state":"KY","latitude":37.1319,"longitude":-86.1478,"geometry":{"type":"Point","coordinates":[-86.1478,37.1319]}}
+{"city":"Northern Kentucky","state":"KY","latitude":38.97,"longitude":-84.66,"geometry":{"type":"Point","coordinates":[-84.66,38.97]}}
+{"city":"Paducah","state":"KY","latitude":37.06,"longitude":-88.57,"geometry":{"type":"Point","coordinates":[-88.57,37.06]}}
+{"city":"Pikeville","state":"KY","latitude":37.48,"longitude":-82.54,"geometry":{"type":"Point","coordinates":[-82.54,37.48]}}
+{"city":"Alexandria","state":"LA","latitude":31.3101,"longitude":-92.4401,"geometry":{"type":"Point","coordinates":[-92.4401,31.3101]}}
+{"city":"Baton Rouge Area","state":"LA","latitude":30.449,"longitude":-91.126,"geometry":{"type":"Point","coordinates":[-91.126,30.449]}}
+{"city":"Lafayette","state":"LA","latitude":30.2258,"longitude":-92.0428,"geometry":{"type":"Point","coordinates":[-92.0428,30.2258]}}
+{"city":"Lake Charles","state":"LA","latitude":30.2278,"longitude":-93.5797,"geometry":{"type":"Point","coordinates":[-93.5797,30.2278]}}
+{"city":"Monroe","state":"LA","latitude":32.5097,"longitude":-92.0461,"geometry":{"type":"Point","coordinates":[-92.0461,32.5097]}}
+{"city":"New Orleans","state":"LA","latitude":30.066,"longitude":-89.931,"geometry":{"type":"Point","coordinates":[-89.931,30.066]}}
+{"city":"Shreveport","state":"LA","latitude":32.5364,"longitude":-93.749,"geometry":{"type":"Point","coordinates":[-93.749,32.5364]}}
+{"city":"Thibodaux","state":"LA","latitude":29.7639,"longitude":-90.7653,"geometry":{"type":"Point","coordinates":[-90.7653,29.7639]}}
+{"city":"Aquinnah","state":"MA","latitude":41.33,"longitude":-70.79,"geometry":{"type":"Point","coordinates":[-70.79,41.33]}}
+{"city":"Boston","state":"MA","latitude":42.351,"longitude":-71.051,"geometry":{"type":"Point","coordinates":[-71.051,42.351]}}
+{"city":"Brockton","state":"MA","latitude":42.065,"longitude":-71.013,"geometry":{"type":"Point","coordinates":[-71.013,42.065]}}
+{"city":"Chelmsford","state":"MA","latitude":42.5998,"longitude":-71.3673,"geometry":{"type":"Point","coordinates":[-71.3673,42.5998]}}
+{"city":"Chelsea","state":"MA","latitude":42.387,"longitude":-71.026,"geometry":{"type":"Point","coordinates":[-71.026,42.387]}}
+{"city":"Fairhaven","state":"MA","latitude":41.6353,"longitude":-70.8814,"geometry":{"type":"Point","coordinates":[-70.8814,41.6353]}}
+{"city":"Fall River","state":"MA","latitude":41.6853,"longitude":-71.1664,"geometry":{"type":"Point","coordinates":[-71.1664,41.6853]}}
+{"city":"Greenfield","state":"MA","latitude":42.6058,"longitude":-72.5967,"geometry":{"type":"Point","coordinates":[-72.5967,42.6058]}}
+{"city":"Haverhill","state":"MA","latitude":42.7736,"longitude":-71.105,"geometry":{"type":"Point","coordinates":[-71.105,42.7736]}}
+{"city":"Lynn","state":"MA","latitude":42.4744,"longitude":-70.9725,"geometry":{"type":"Point","coordinates":[-70.9725,42.4744]}}
+{"city":"Milton - Blue Hill Observatory","state":"MA","latitude":42.2122,"longitude":-71.1158,"geometry":{"type":"Point","coordinates":[-71.1158,42.2122]}}
+{"city":"North Adams","state":"MA","latitude":42.7022,"longitude":-73.1104,"geometry":{"type":"Point","coordinates":[-73.1104,42.7022]}}
+{"city":"Pittsfield","state":"MA","latitude":42.448,"longitude":-73.2553,"geometry":{"type":"Point","coordinates":[-73.2553,42.448]}}
+{"city":"Springfield","state":"MA","latitude":42.1,"longitude":-72.584,"geometry":{"type":"Point","coordinates":[-72.584,42.1]}}
+{"city":"Truro","state":"MA","latitude":41.98,"longitude":-70.02,"geometry":{"type":"Point","coordinates":[-70.02,41.98]}}
+{"city":"Uxbridge","state":"MA","latitude":42.0997,"longitude":-71.62,"geometry":{"type":"Point","coordinates":[-71.62,42.0997]}}
+{"city":"Ware - Quabbin Summit","state":"MA","latitude":42.2983,"longitude":-72.3347,"geometry":{"type":"Point","coordinates":[-72.3347,42.2983]}}
+{"city":"Weymouth","state":"MA","latitude":42.2459,"longitude":-70.9628,"geometry":{"type":"Point","coordinates":[-70.9628,42.2459]}}
+{"city":"Worcester","state":"MA","latitude":42.1908,"longitude":-71.8761,"geometry":{"type":"Point","coordinates":[-71.8761,42.1908]}}
+{"city":"Hagerstown Region","state":"MD","latitude":39.6116,"longitude":-77.9143,"geometry":{"type":"Point","coordinates":[-77.9143,39.6116]}}
+{"city":"Lower Eastern Shore","state":"MD","latitude":38.6894,"longitude":-75.9989,"geometry":{"type":"Point","coordinates":[-75.9989,38.6894]}}
+{"city":"Maryland Piedmont","state":"MD","latitude":39.4732,"longitude":-77.3139,"geometry":{"type":"Point","coordinates":[-77.3139,39.4732]}}
+{"city":"Metro Baltimore","state":"MD","latitude":39.1876,"longitude":-76.5904,"geometry":{"type":"Point","coordinates":[-76.5904,39.1876]}}
+{"city":"Northeast Maryland","state":"MD","latitude":39.546,"longitude":-75.9574,"geometry":{"type":"Point","coordinates":[-75.9574,39.546]}}
+{"city":"Northern Baltimore","state":"MD","latitude":39.693,"longitude":-76.5112,"geometry":{"type":"Point","coordinates":[-76.5112,39.693]}}
+{"city":"Southern Maryland","state":"MD","latitude":38.3815,"longitude":-76.7801,"geometry":{"type":"Point","coordinates":[-76.7801,38.3815]}}
+{"city":"Suburban DC","state":"MD","latitude":39.0402,"longitude":-76.9777,"geometry":{"type":"Point","coordinates":[-76.9777,39.0402]}}
+{"city":"Upper Eastern Shore","state":"MD","latitude":39.1557,"longitude":-76.0535,"geometry":{"type":"Point","coordinates":[-76.0535,39.1557]}}
+{"city":"Western Maryland","state":"MD","latitude":39.6246,"longitude":-78.9097,"geometry":{"type":"Point","coordinates":[-78.9097,39.6246]}}
+{"city":"Downeast Coast","state":"ME","latitude":44.5319,"longitude":-67.5959,"geometry":{"type":"Point","coordinates":[-67.5959,44.5319]}}
+{"city":"Eastern Interior","state":"ME","latitude":45.022,"longitude":-68.7723,"geometry":{"type":"Point","coordinates":[-68.7723,45.022]}}
+{"city":"High Elevations of Acadia National Park","state":"ME","latitude":44.3127,"longitude":-68.2069,"geometry":{"type":"Point","coordinates":[-68.2069,44.3127]}}
+{"city":"Mid-Coast","state":"ME","latitude":44.377,"longitude":-68.2609,"geometry":{"type":"Point","coordinates":[-68.2609,44.377]}}
+{"city":"Northern","state":"ME","latitude":46.6823,"longitude":-68.0162,"geometry":{"type":"Point","coordinates":[-68.0162,46.6823]}}
+{"city":"Southwest Coast","state":"ME","latitude":43.561,"longitude":-70.2073,"geometry":{"type":"Point","coordinates":[-70.2073,43.561]}}
+{"city":"Western Interior","state":"ME","latitude":44.2306,"longitude":-69.785,"geometry":{"type":"Point","coordinates":[-69.785,44.2306]}}
+{"city":"Western Mountains","state":"ME","latitude":44.8758,"longitude":-70.4686,"geometry":{"type":"Point","coordinates":[-70.4686,44.8758]}}
+{"city":"Ann Arbor","state":"MI","latitude":42.2754,"longitude":-83.7308,"geometry":{"type":"Point","coordinates":[-83.7308,42.2754]}}
+{"city":"Benton Harbor","state":"MI","latitude":42.1167,"longitude":-86.4542,"geometry":{"type":"Point","coordinates":[-86.4542,42.1167]}}
+{"city":"Detroit","state":"MI","latitude":42.233,"longitude":-83.333,"geometry":{"type":"Point","coordinates":[-83.333,42.233]}}
+{"city":"Eastern U.P.","state":"MI","latitude":46.3456,"longitude":-85.9453,"geometry":{"type":"Point","coordinates":[-85.9453,46.3456]}}
+{"city":"Flint","state":"MI","latitude":43.0146,"longitude":-83.6959,"geometry":{"type":"Point","coordinates":[-83.6959,43.0146]}}
+{"city":"Grand Rapids","state":"MI","latitude":42.833,"longitude":-85.517,"geometry":{"type":"Point","coordinates":[-85.517,42.833]}}
+{"city":"Houghton Lake","state":"MI","latitude":44.3147,"longitude":-84.7647,"geometry":{"type":"Point","coordinates":[-84.7647,44.3147]}}
+{"city":"Kalamazoo","state":"MI","latitude":42.2747,"longitude":-85.5883,"geometry":{"type":"Point","coordinates":[-85.5883,42.2747]}}
+{"city":"Lansing","state":"MI","latitude":42.7408,"longitude":-84.5447,"geometry":{"type":"Point","coordinates":[-84.5447,42.7408]}}
+{"city":"Ludington","state":"MI","latitude":43.9553,"longitude":-86.4525,"geometry":{"type":"Point","coordinates":[-86.4525,43.9553]}}
+{"city":"Saginaw","state":"MI","latitude":43.4196,"longitude":-83.9495,"geometry":{"type":"Point","coordinates":[-83.9495,43.4196]}}
+{"city":"Traverse City","state":"MI","latitude":44.7544,"longitude":-85.6029,"geometry":{"type":"Point","coordinates":[-85.6029,44.7544]}}
+{"city":"Western Upper Peninsula","state":"MI","latitude":46.54,"longitude":-87.4,"geometry":{"type":"Point","coordinates":[-87.4,46.54]}}
+{"city":"Central Minnesota","state":"MN","latitude":46.5444,"longitude":-94.0916,"geometry":{"type":"Point","coordinates":[-94.0916,46.5444]}}
+{"city":"Duluth Area","state":"MN","latitude":46.7137,"longitude":-92.5117,"geometry":{"type":"Point","coordinates":[-92.5117,46.7137]}}
+{"city":"East Central Minnesota","state":"MN","latitude":45.6842,"longitude":-93.1604,"geometry":{"type":"Point","coordinates":[-93.1604,45.6842]}}
+{"city":"Minnesota Arrowhead","state":"MN","latitude":47.9103,"longitude":-90.6158,"geometry":{"type":"Point","coordinates":[-90.6158,47.9103]}}
+{"city":"Mississippi River Valley","state":"MN","latitude":44.05,"longitude":-91.8695,"geometry":{"type":"Point","coordinates":[-91.8695,44.05]}}
+{"city":"North Central Minnesota","state":"MN","latitude":47.8177,"longitude":-93.1076,"geometry":{"type":"Point","coordinates":[-93.1076,47.8177]}}
+{"city":"Northern Twin Cities Metro","state":"MN","latitude":45.21,"longitude":-93.28,"geometry":{"type":"Point","coordinates":[-93.28,45.21]}}
+{"city":"Northwestern Minnesota","state":"MN","latitude":47.9437,"longitude":-95.6024,"geometry":{"type":"Point","coordinates":[-95.6024,47.9437]}}
+{"city":"Red River Valley North","state":"MN","latitude":48.3714,"longitude":-97.0337,"geometry":{"type":"Point","coordinates":[-97.0337,48.3714]}}
+{"city":"Red River Valley South","state":"MN","latitude":46.9095,"longitude":-96.6489,"geometry":{"type":"Point","coordinates":[-96.6489,46.9095]}}
+{"city":"Rochester Area","state":"MN","latitude":43.9969,"longitude":-92.4504,"geometry":{"type":"Point","coordinates":[-92.4504,43.9969]}}
+{"city":"South Central Minnesota","state":"MN","latitude":44.256,"longitude":-94.094,"geometry":{"type":"Point","coordinates":[-94.094,44.256]}}
+{"city":"Southern Twin Cities Metro","state":"MN","latitude":44.71,"longitude":-93.25,"geometry":{"type":"Point","coordinates":[-93.25,44.71]}}
+{"city":"Southwestern Minnesota","state":"MN","latitude":44.7525,"longitude":-95.5677,"geometry":{"type":"Point","coordinates":[-95.5677,44.7525]}}
+{"city":"St. Cloud Area","state":"MN","latitude":45.5498,"longitude":-94.1335,"geometry":{"type":"Point","coordinates":[-94.1335,45.5498]}}
+{"city":"Twin Cities","state":"MN","latitude":44.955,"longitude":-93.185,"geometry":{"type":"Point","coordinates":[-93.185,44.955]}}
+{"city":"West Central Minnesota","state":"MN","latitude":46.4603,"longitude":-95.5234,"geometry":{"type":"Point","coordinates":[-95.5234,46.4603]}}
+{"city":"Kansas City","state":"MO","latitude":39.122,"longitude":-94.552,"geometry":{"type":"Point","coordinates":[-94.552,39.122]}}
+{"city":"Mark Twain State Park","state":"MO","latitude":39.4751,"longitude":-91.789,"geometry":{"type":"Point","coordinates":[-91.789,39.4751]}}
+{"city":"Saint Louis","state":"MO","latitude":38.75,"longitude":-90.383,"geometry":{"type":"Point","coordinates":[-90.383,38.75]}}
+{"city":"Springfield","state":"MO","latitude":37.2619,"longitude":-93.2981,"geometry":{"type":"Point","coordinates":[-93.2981,37.2619]}}
+{"city":"St. Joseph","state":"MO","latitude":39.9544,"longitude":-94.849,"geometry":{"type":"Point","coordinates":[-94.849,39.9544]}}
+{"city":"Cleveland","state":"MS","latitude":33.744,"longitude":-90.7248,"geometry":{"type":"Point","coordinates":[-90.7248,33.744]}}
+{"city":"Hattiesburg","state":"MS","latitude":31.3271,"longitude":-89.2903,"geometry":{"type":"Point","coordinates":[-89.2903,31.3271]}}
+{"city":"Hernando","state":"MS","latitude":34.8275,"longitude":-89.9889,"geometry":{"type":"Point","coordinates":[-89.9889,34.8275]}}
+{"city":"Jackson","state":"MS","latitude":32.3302,"longitude":-90.166,"geometry":{"type":"Point","coordinates":[-90.166,32.3302]}}
+{"city":"Mississippi Gulf Coast","state":"MS","latitude":30.37,"longitude":-89.1,"geometry":{"type":"Point","coordinates":[-89.1,30.37]}}
+{"city":"Billings","state":"MT","latitude":45.7822,"longitude":-108.5115,"geometry":{"type":"Point","coordinates":[-108.5115,45.7822]}}
+{"city":"Bozeman","state":"MT","latitude":45.6838,"longitude":-111.0563,"geometry":{"type":"Point","coordinates":[-111.0563,45.6838]}}
+{"city":"Butte","state":"MT","latitude":46.0024,"longitude":-112.5009,"geometry":{"type":"Point","coordinates":[-112.5009,46.0024]}}
+{"city":"Choteau","state":"MT","latitude":47.8203,"longitude":-112.1936,"geometry":{"type":"Point","coordinates":[-112.1936,47.8203]}}
+{"city":"Cut Bank (seasonal)","state":"MT","latitude":48.6,"longitude":-112.36,"geometry":{"type":"Point","coordinates":[-112.36,48.6]}}
+{"city":"Dillon (seasonal)","state":"MT","latitude":45.2,"longitude":-112.64,"geometry":{"type":"Point","coordinates":[-112.64,45.2]}}
+{"city":"Flathead Valley","state":"MT","latitude":48.3637,"longitude":-114.1893,"geometry":{"type":"Point","coordinates":[-114.1893,48.3637]}}
+{"city":"Glacier National Park","state":"MT","latitude":48.51,"longitude":-113.99,"geometry":{"type":"Point","coordinates":[-113.99,48.51]}}
+{"city":"Glasgow","state":"MT","latitude":48.2118,"longitude":-106.6415,"geometry":{"type":"Point","coordinates":[-106.6415,48.2118]}}
+{"city":"Glendive","state":"MT","latitude":47.1207,"longitude":-104.7517,"geometry":{"type":"Point","coordinates":[-104.7517,47.1207]}}
+{"city":"Great Falls","state":"MT","latitude":47.4943,"longitude":-111.3033,"geometry":{"type":"Point","coordinates":[-111.3033,47.4943]}}
+{"city":"Hamilton","state":"MT","latitude":46.2436,"longitude":-114.1589,"geometry":{"type":"Point","coordinates":[-114.1589,46.2436]}}
+{"city":"Havre (seasonal)","state":"MT","latitude":48.55,"longitude":-109.67,"geometry":{"type":"Point","coordinates":[-109.67,48.55]}}
+{"city":"Helena","state":"MT","latitude":46.596,"longitude":-112.027,"geometry":{"type":"Point","coordinates":[-112.027,46.596]}}
+{"city":"Lewistown","state":"MT","latitude":47.0485,"longitude":-109.4553,"geometry":{"type":"Point","coordinates":[-109.4553,47.0485]}}
+{"city":"Libby","state":"MT","latitude":48.388,"longitude":-115.554,"geometry":{"type":"Point","coordinates":[-115.554,48.388]}}
+{"city":"Malta","state":"MT","latitude":48.3175,"longitude":-107.8625,"geometry":{"type":"Point","coordinates":[-107.8625,48.3175]}}
+{"city":"Miles City","state":"MT","latitude":46.4114,"longitude":-105.8127,"geometry":{"type":"Point","coordinates":[-105.8127,46.4114]}}
+{"city":"Missoula","state":"MT","latitude":46.8423,"longitude":-114.0205,"geometry":{"type":"Point","coordinates":[-114.0205,46.8423]}}
+{"city":"Seeley Lake","state":"MT","latitude":47.1756,"longitude":-113.4762,"geometry":{"type":"Point","coordinates":[-113.4762,47.1756]}}
+{"city":"Sidney","state":"MT","latitude":47.8034,"longitude":-104.4856,"geometry":{"type":"Point","coordinates":[-104.4856,47.8034]}}
+{"city":"Thompson Falls","state":"MT","latitude":47.5944,"longitude":-115.3237,"geometry":{"type":"Point","coordinates":[-115.3237,47.5944]}}
+{"city":"Yellowstone National Park","state":"MT","latitude":44.5597,"longitude":-110.4006,"geometry":{"type":"Point","coordinates":[-110.4006,44.5597]}}
+{"city":"Alexander County","state":"NC","latitude":35.9208,"longitude":-81.1773,"geometry":{"type":"Point","coordinates":[-81.1773,35.9208]}}
+{"city":"Alleghany County","state":"NC","latitude":36.4912,"longitude":-81.1287,"geometry":{"type":"Point","coordinates":[-81.1287,36.4912]}}
+{"city":"Anson County","state":"NC","latitude":34.9736,"longitude":-80.1025,"geometry":{"type":"Point","coordinates":[-80.1025,34.9736]}}
+{"city":"Ashe County","state":"NC","latitude":36.4343,"longitude":-81.5007,"geometry":{"type":"Point","coordinates":[-81.5007,36.4343]}}
+{"city":"Avery County","state":"NC","latitude":36.0768,"longitude":-81.9226,"geometry":{"type":"Point","coordinates":[-81.9226,36.0768]}}
+{"city":"Beaufort County","state":"NC","latitude":35.4941,"longitude":-76.8591,"geometry":{"type":"Point","coordinates":[-76.8591,35.4941]}}
+{"city":"Bertie County","state":"NC","latitude":36.0659,"longitude":-76.9767,"geometry":{"type":"Point","coordinates":[-76.9767,36.0659]}}
+{"city":"Bladen County","state":"NC","latitude":34.6147,"longitude":-78.5632,"geometry":{"type":"Point","coordinates":[-78.5632,34.6147]}}
+{"city":"Brunswick County","state":"NC","latitude":34.0705,"longitude":-78.2378,"geometry":{"type":"Point","coordinates":[-78.2378,34.0705]}}
+{"city":"Buncombe County","state":"NC","latitude":35.595,"longitude":-82.551,"geometry":{"type":"Point","coordinates":[-82.551,35.595]}}
+{"city":"Burke County","state":"NC","latitude":35.7494,"longitude":-81.7052,"geometry":{"type":"Point","coordinates":[-81.7052,35.7494]}}
+{"city":"Cabarrus County","state":"NC","latitude":35.3873,"longitude":-80.5513,"geometry":{"type":"Point","coordinates":[-80.5513,35.3873]}}
+{"city":"Caldwell County","state":"NC","latitude":35.953,"longitude":-81.5466,"geometry":{"type":"Point","coordinates":[-81.5466,35.953]}}
+{"city":"Camden County","state":"NC","latitude":36.3866,"longitude":-76.2055,"geometry":{"type":"Point","coordinates":[-76.2055,36.3866]}}
+{"city":"Carteret County","state":"NC","latitude":34.8273,"longitude":-76.6551,"geometry":{"type":"Point","coordinates":[-76.6551,34.8273]}}
+{"city":"Catawba County","state":"NC","latitude":35.739,"longitude":-81.326,"geometry":{"type":"Point","coordinates":[-81.326,35.739]}}
+{"city":"Chatham County","state":"NC","latitude":35.7027,"longitude":-79.2555,"geometry":{"type":"Point","coordinates":[-79.2555,35.7027]}}
+{"city":"Cherokee County","state":"NC","latitude":35.1338,"longitude":-84.0639,"geometry":{"type":"Point","coordinates":[-84.0639,35.1338]}}
+{"city":"Chowan County","state":"NC","latitude":36.1491,"longitude":-76.6078,"geometry":{"type":"Point","coordinates":[-76.6078,36.1491]}}
+{"city":"Clay County","state":"NC","latitude":35.0575,"longitude":-83.7505,"geometry":{"type":"Point","coordinates":[-83.7505,35.0575]}}
+{"city":"Cleveland County","state":"NC","latitude":35.3339,"longitude":-81.5555,"geometry":{"type":"Point","coordinates":[-81.5555,35.3339]}}
+{"city":"Columbus County","state":"NC","latitude":34.2659,"longitude":-78.6552,"geometry":{"type":"Point","coordinates":[-78.6552,34.2659]}}
+{"city":"Craven County","state":"NC","latitude":35.1235,"longitude":-77.0913,"geometry":{"type":"Point","coordinates":[-77.0913,35.1235]}}
+{"city":"Cumberland County","state":"NC","latitude":35.072,"longitude":-78.9,"geometry":{"type":"Point","coordinates":[-78.9,35.072]}}
+{"city":"Currituck County","state":"NC","latitude":36.4032,"longitude":-76.0041,"geometry":{"type":"Point","coordinates":[-76.0041,36.4032]}}
+{"city":"Dare County","state":"NC","latitude":35.7632,"longitude":-75.7824,"geometry":{"type":"Point","coordinates":[-75.7824,35.7632]}}
+{"city":"Duplin County","state":"NC","latitude":34.9365,"longitude":-77.9329,"geometry":{"type":"Point","coordinates":[-77.9329,34.9365]}}
+{"city":"Durham County","state":"NC","latitude":36.0359,"longitude":-78.8768,"geometry":{"type":"Point","coordinates":[-78.8768,36.0359]}}
+{"city":"Edgecombe County","state":"NC","latitude":35.9382,"longitude":-77.7905,"geometry":{"type":"Point","coordinates":[-77.7905,35.9382]}}
+{"city":"EnviroFlash Test","state":"NC","latitude":0.0,"longitude":0.0,"geometry":{"type":"Point","coordinates":[0.0,0.0]}}
+{"city":"Forsyth County-Winston-Salem-Greensboro-High Point","state":"NC","latitude":36.051,"longitude":-80.144,"geometry":{"type":"Point","coordinates":[-80.144,36.051]}}
+{"city":"Franklin County","state":"NC","latitude":36.0827,"longitude":-78.2854,"geometry":{"type":"Point","coordinates":[-78.2854,36.0827]}}
+{"city":"Gaston County","state":"NC","latitude":35.2943,"longitude":-81.1801,"geometry":{"type":"Point","coordinates":[-81.1801,35.2943]}}
+{"city":"Gates County","state":"NC","latitude":36.4447,"longitude":-76.7003,"geometry":{"type":"Point","coordinates":[-76.7003,36.4447]}}
+{"city":"Graham County","state":"NC","latitude":35.3501,"longitude":-83.833,"geometry":{"type":"Point","coordinates":[-83.833,35.3501]}}
+{"city":"Granville County","state":"NC","latitude":36.3039,"longitude":-78.653,"geometry":{"type":"Point","coordinates":[-78.653,36.3039]}}
+{"city":"Greene County","state":"NC","latitude":35.485,"longitude":-77.6759,"geometry":{"type":"Point","coordinates":[-77.6759,35.485]}}
+{"city":"Halifax County","state":"NC","latitude":36.2573,"longitude":-77.6513,"geometry":{"type":"Point","coordinates":[-77.6513,36.2573]}}
+{"city":"Harnett County","state":"NC","latitude":35.3688,"longitude":-78.8698,"geometry":{"type":"Point","coordinates":[-78.8698,35.3688]}}
+{"city":"Haywood County","state":"NC","latitude":35.5558,"longitude":-82.9821,"geometry":{"type":"Point","coordinates":[-82.9821,35.5558]}}
+{"city":"Henderson County","state":"NC","latitude":35.3363,"longitude":-82.4805,"geometry":{"type":"Point","coordinates":[-82.4805,35.3363]}}
+{"city":"Hertford County","state":"NC","latitude":36.3589,"longitude":-76.9821,"geometry":{"type":"Point","coordinates":[-76.9821,36.3589]}}
+{"city":"Hoke County","state":"NC","latitude":35.0177,"longitude":-79.2371,"geometry":{"type":"Point","coordinates":[-79.2371,35.0177]}}
+{"city":"Hyde County","state":"NC","latitude":35.5193,"longitude":-76.2464,"geometry":{"type":"Point","coordinates":[-76.2464,35.5193]}}
+{"city":"Iredell County","state":"NC","latitude":35.8066,"longitude":-80.8735,"geometry":{"type":"Point","coordinates":[-80.8735,35.8066]}}
+{"city":"Jackson County","state":"NC","latitude":35.2875,"longitude":-83.141,"geometry":{"type":"Point","coordinates":[-83.141,35.2875]}}
+{"city":"Johnston County","state":"NC","latitude":35.5184,"longitude":-78.3651,"geometry":{"type":"Point","coordinates":[-78.3651,35.5184]}}
+{"city":"Jones County","state":"NC","latitude":35.0222,"longitude":-77.3559,"geometry":{"type":"Point","coordinates":[-77.3559,35.0222]}}
+{"city":"Lee County","state":"NC","latitude":35.4751,"longitude":-79.1716,"geometry":{"type":"Point","coordinates":[-79.1716,35.4751]}}
+{"city":"Lenoir County","state":"NC","latitude":35.2387,"longitude":-77.6411,"geometry":{"type":"Point","coordinates":[-77.6411,35.2387]}}
+{"city":"Lincoln County","state":"NC","latitude":35.4856,"longitude":-81.2235,"geometry":{"type":"Point","coordinates":[-81.2235,35.4856]}}
+{"city":"Macon County","state":"NC","latitude":35.1504,"longitude":-83.4226,"geometry":{"type":"Point","coordinates":[-83.4226,35.1504]}}
+{"city":"Madison County","state":"NC","latitude":35.858,"longitude":-82.7061,"geometry":{"type":"Point","coordinates":[-82.7061,35.858]}}
+{"city":"Martin County","state":"NC","latitude":35.8426,"longitude":-77.108,"geometry":{"type":"Point","coordinates":[-77.108,35.8426]}}
+{"city":"McDowell County","state":"NC","latitude":35.6816,"longitude":-82.0491,"geometry":{"type":"Point","coordinates":[-82.0491,35.6816]}}
+{"city":"Mecklenburg County","state":"NC","latitude":35.227,"longitude":-80.843,"geometry":{"type":"Point","coordinates":[-80.843,35.227]}}
+{"city":"Mitchell County","state":"NC","latitude":36.0131,"longitude":-82.1639,"geometry":{"type":"Point","coordinates":[-82.1639,36.0131]}}
+{"city":"Montgomery County","state":"NC","latitude":35.3324,"longitude":-79.9057,"geometry":{"type":"Point","coordinates":[-79.9057,35.3324]}}
+{"city":"Moore County","state":"NC","latitude":35.311,"longitude":-79.4818,"geometry":{"type":"Point","coordinates":[-79.4818,35.311]}}
+{"city":"Nash County","state":"NC","latitude":35.9676,"longitude":-77.9862,"geometry":{"type":"Point","coordinates":[-77.9862,35.9676]}}
+{"city":"New Hanover County","state":"NC","latitude":34.273,"longitude":-77.9079,"geometry":{"type":"Point","coordinates":[-77.9079,34.273]}}
+{"city":"North Ridges","state":"NC","latitude":36.1111,"longitude":-81.8114,"geometry":{"type":"Point","coordinates":[-81.8114,36.1111]}}
+{"city":"Northampton County","state":"NC","latitude":36.4181,"longitude":-77.3973,"geometry":{"type":"Point","coordinates":[-77.3973,36.4181]}}
+{"city":"Onslow County","state":"NC","latitude":34.7303,"longitude":-77.4274,"geometry":{"type":"Point","coordinates":[-77.4274,34.7303]}}
+{"city":"Orange County","state":"NC","latitude":36.0612,"longitude":-79.1206,"geometry":{"type":"Point","coordinates":[-79.1206,36.0612]}}
+{"city":"Pamlico County","state":"NC","latitude":35.1471,"longitude":-76.7285,"geometry":{"type":"Point","coordinates":[-76.7285,35.1471]}}
+{"city":"Pasquotank County","state":"NC","latitude":36.2952,"longitude":-76.2838,"geometry":{"type":"Point","coordinates":[-76.2838,36.2952]}}
+{"city":"Pender County","state":"NC","latitude":34.5247,"longitude":-77.9054,"geometry":{"type":"Point","coordinates":[-77.9054,34.5247]}}
+{"city":"Perquimans County","state":"NC","latitude":36.2048,"longitude":-76.4387,"geometry":{"type":"Point","coordinates":[-76.4387,36.2048]}}
+{"city":"Person County","state":"NC","latitude":36.39,"longitude":-78.9718,"geometry":{"type":"Point","coordinates":[-78.9718,36.39]}}
+{"city":"Pitt County","state":"NC","latitude":35.6376,"longitude":-77.3818,"geometry":{"type":"Point","coordinates":[-77.3818,35.6376]}}
+{"city":"Polk County","state":"NC","latitude":35.2796,"longitude":-82.1701,"geometry":{"type":"Point","coordinates":[-82.1701,35.2796]}}
+{"city":"Richmond County","state":"NC","latitude":35.0061,"longitude":-79.7474,"geometry":{"type":"Point","coordinates":[-79.7474,35.0061]}}
+{"city":"Robeson County","state":"NC","latitude":34.6402,"longitude":-79.1036,"geometry":{"type":"Point","coordinates":[-79.1036,34.6402]}}
+{"city":"Rowan County","state":"NC","latitude":35.6399,"longitude":-80.5252,"geometry":{"type":"Point","coordinates":[-80.5252,35.6399]}}
+{"city":"Rutherford County","state":"NC","latitude":35.4024,"longitude":-81.92,"geometry":{"type":"Point","coordinates":[-81.92,35.4024]}}
+{"city":"Sampson County","state":"NC","latitude":34.9918,"longitude":-78.3713,"geometry":{"type":"Point","coordinates":[-78.3713,34.9918]}}
+{"city":"Scotland County","state":"NC","latitude":34.8409,"longitude":-79.4799,"geometry":{"type":"Point","coordinates":[-79.4799,34.8409]}}
+{"city":"South Ridges","state":"NC","latitude":35.5847,"longitude":-83.0623,"geometry":{"type":"Point","coordinates":[-83.0623,35.5847]}}
+{"city":"Stanly County","state":"NC","latitude":35.3116,"longitude":-80.2511,"geometry":{"type":"Point","coordinates":[-80.2511,35.3116]}}
+{"city":"Surry County","state":"NC","latitude":36.4147,"longitude":-80.6878,"geometry":{"type":"Point","coordinates":[-80.6878,36.4147]}}
+{"city":"Swain County","state":"NC","latitude":35.4868,"longitude":-83.4923,"geometry":{"type":"Point","coordinates":[-83.4923,35.4868]}}
+{"city":"Transylvania County","state":"NC","latitude":35.2019,"longitude":-82.7986,"geometry":{"type":"Point","coordinates":[-82.7986,35.2019]}}
+{"city":"Tyrrell County","state":"NC","latitude":35.8181,"longitude":-76.2076,"geometry":{"type":"Point","coordinates":[-76.2076,35.8181]}}
+{"city":"Union County","state":"NC","latitude":34.9883,"longitude":-80.5307,"geometry":{"type":"Point","coordinates":[-80.5307,34.9883]}}
+{"city":"Vance County","state":"NC","latitude":36.3649,"longitude":-78.4079,"geometry":{"type":"Point","coordinates":[-78.4079,36.3649]}}
+{"city":"Wake County","state":"NC","latitude":35.878,"longitude":-78.787,"geometry":{"type":"Point","coordinates":[-78.787,35.878]}}
+{"city":"Warren County","state":"NC","latitude":36.3966,"longitude":-78.1065,"geometry":{"type":"Point","coordinates":[-78.1065,36.3966]}}
+{"city":"Washington County","state":"NC","latitude":35.8231,"longitude":-76.5768,"geometry":{"type":"Point","coordinates":[-76.5768,35.8231]}}
+{"city":"Watauga County","state":"NC","latitude":36.2309,"longitude":-81.6961,"geometry":{"type":"Point","coordinates":[-81.6961,36.2309]}}
+{"city":"Wayne County","state":"NC","latitude":35.3639,"longitude":-78.0039,"geometry":{"type":"Point","coordinates":[-78.0039,35.3639]}}
+{"city":"Wilkes County","state":"NC","latitude":36.2061,"longitude":-81.1632,"geometry":{"type":"Point","coordinates":[-81.1632,36.2061]}}
+{"city":"Wilson County","state":"NC","latitude":35.7055,"longitude":-77.9181,"geometry":{"type":"Point","coordinates":[-77.9181,35.7055]}}
+{"city":"Yadkin County","state":"NC","latitude":36.1605,"longitude":-80.6652,"geometry":{"type":"Point","coordinates":[-80.6652,36.1605]}}
+{"city":"Yancey County","state":"NC","latitude":35.8985,"longitude":-82.3081,"geometry":{"type":"Point","coordinates":[-82.3081,35.8985]}}
+{"city":"Beulah","state":"ND","latitude":47.2986,"longitude":-101.7669,"geometry":{"type":"Point","coordinates":[-101.7669,47.2986]}}
+{"city":"Bismarck","state":"ND","latitude":46.8253,"longitude":-100.7681,"geometry":{"type":"Point","coordinates":[-100.7681,46.8253]}}
+{"city":"Fargo","state":"ND","latitude":46.9336,"longitude":-96.8547,"geometry":{"type":"Point","coordinates":[-96.8547,46.9336]}}
+{"city":"Hannover","state":"ND","latitude":47.1858,"longitude":-101.4281,"geometry":{"type":"Point","coordinates":[-101.4281,47.1858]}}
+{"city":"Lostwood","state":"ND","latitude":48.6419,"longitude":-102.4022,"geometry":{"type":"Point","coordinates":[-102.4022,48.6419]}}
+{"city":"Theodore Roosevelt National Park","state":"ND","latitude":46.9496,"longitude":-103.5143,"geometry":{"type":"Point","coordinates":[-103.5143,46.9496]}}
+{"city":"Beatrice","state":"NE","latitude":40.29,"longitude":-96.82,"geometry":{"type":"Point","coordinates":[-96.82,40.29]}}
+{"city":"Lincoln","state":"NE","latitude":40.8125,"longitude":-96.6756,"geometry":{"type":"Point","coordinates":[-96.6756,40.8125]}}
+{"city":"Omaha","state":"NE","latitude":41.2655,"longitude":-95.9836,"geometry":{"type":"Point","coordinates":[-95.9836,41.2655]}}
+{"city":"Claremont","state":"NH","latitude":43.3644,"longitude":-72.3383,"geometry":{"type":"Point","coordinates":[-72.3383,43.3644]}}
+{"city":"Concord","state":"NH","latitude":43.2069,"longitude":-71.5342,"geometry":{"type":"Point","coordinates":[-71.5342,43.2069]}}
+{"city":"Conway","state":"NH","latitude":44.0507,"longitude":-71.2853,"geometry":{"type":"Point","coordinates":[-71.2853,44.0507]}}
+{"city":"Keene","state":"NH","latitude":42.9306,"longitude":-72.2778,"geometry":{"type":"Point","coordinates":[-72.2778,42.9306]}}
+{"city":"Laconia","state":"NH","latitude":43.5728,"longitude":-71.4189,"geometry":{"type":"Point","coordinates":[-71.4189,43.5728]}}
+{"city":"Lebanon","state":"NH","latitude":43.6274,"longitude":-72.3102,"geometry":{"type":"Point","coordinates":[-72.3102,43.6274]}}
+{"city":"Londonderry","state":"NH","latitude":42.8674,"longitude":-71.3401,"geometry":{"type":"Point","coordinates":[-71.3401,42.8674]}}
+{"city":"Manchester","state":"NH","latitude":42.9928,"longitude":-71.4594,"geometry":{"type":"Point","coordinates":[-71.4594,42.9928]}}
+{"city":"Nashua","state":"NH","latitude":42.7019,"longitude":-71.445,"geometry":{"type":"Point","coordinates":[-71.445,42.7019]}}
+{"city":"Pittsburg","state":"NH","latitude":45.0476,"longitude":-71.3808,"geometry":{"type":"Point","coordinates":[-71.3808,45.0476]}}
+{"city":"Portsmouth","state":"NH","latitude":43.0149,"longitude":-70.9047,"geometry":{"type":"Point","coordinates":[-70.9047,43.0149]}}
+{"city":"Strafford County - Rochester","state":"NH","latitude":43.2256,"longitude":-71.1395,"geometry":{"type":"Point","coordinates":[-71.1395,43.2256]}}
+{"city":"Central","state":"NJ","latitude":40.401,"longitude":-74.325,"geometry":{"type":"Point","coordinates":[-74.325,40.401]}}
+{"city":"Delaware Water Gap","state":"NJ","latitude":40.991,"longitude":-74.939,"geometry":{"type":"Point","coordinates":[-74.939,40.991]}}
+{"city":"Monmouth County","state":"NJ","latitude":40.356,"longitude":-74.23,"geometry":{"type":"Point","coordinates":[-74.23,40.356]}}
+{"city":"New Jersey","state":"NJ","latitude":39.7,"longitude":-73.871,"geometry":{"type":"Point","coordinates":[-73.871,39.7]}}
+{"city":"North Central","state":"NJ","latitude":40.767,"longitude":-74.632,"geometry":{"type":"Point","coordinates":[-74.632,40.767]}}
+{"city":"Northeast Urban","state":"NJ","latitude":40.692,"longitude":-74.187,"geometry":{"type":"Point","coordinates":[-74.187,40.692]}}
+{"city":"Riverline","state":"NJ","latitude":39.909,"longitude":-75.076,"geometry":{"type":"Point","coordinates":[-75.076,39.909]}}
+{"city":"South Coastal","state":"NJ","latitude":39.372,"longitude":-74.553,"geometry":{"type":"Point","coordinates":[-74.553,39.372]}}
+{"city":"Southeast Burlington and Ocean Counties","state":"NJ","latitude":39.798,"longitude":-74.214,"geometry":{"type":"Point","coordinates":[-74.214,39.798]}}
+{"city":"Southern Bay","state":"NJ","latitude":39.459,"longitude":-75.282,"geometry":{"type":"Point","coordinates":[-75.282,39.459]}}
+{"city":"Albuquerque","state":"NM","latitude":35.0833,"longitude":-106.6511,"geometry":{"type":"Point","coordinates":[-106.6511,35.0833]}}
+{"city":"Carlsbad","state":"NM","latitude":32.38,"longitude":-104.2622,"geometry":{"type":"Point","coordinates":[-104.2622,32.38]}}
+{"city":"Chaco Culture National Historical Park","state":"NM","latitude":36.035,"longitude":-107.9042,"geometry":{"type":"Point","coordinates":[-107.9042,36.035]}}
+{"city":"Coyote","state":"NM","latitude":36.1877,"longitude":-106.6984,"geometry":{"type":"Point","coordinates":[-106.6984,36.1877]}}
+{"city":"Deming","state":"NM","latitude":32.2558,"longitude":-107.7227,"geometry":{"type":"Point","coordinates":[-107.7227,32.2558]}}
+{"city":"Dona Ana County","state":"NM","latitude":31.9187,"longitude":-106.633,"geometry":{"type":"Point","coordinates":[-106.633,31.9187]}}
+{"city":"Hobbs","state":"NM","latitude":32.7268,"longitude":-103.123,"geometry":{"type":"Point","coordinates":[-103.123,32.7268]}}
+{"city":"Las Cruces","state":"NM","latitude":32.3123,"longitude":-106.7783,"geometry":{"type":"Point","coordinates":[-106.7783,32.3123]}}
+{"city":"San Juan County","state":"NM","latitude":36.898,"longitude":-108.342,"geometry":{"type":"Point","coordinates":[-108.342,36.898]}}
+{"city":"Santa Fe","state":"NM","latitude":35.6198,"longitude":-106.0797,"geometry":{"type":"Point","coordinates":[-106.0797,35.6198]}}
+{"city":"Taos","state":"NM","latitude":36.3833,"longitude":-105.5833,"geometry":{"type":"Point","coordinates":[-105.5833,36.3833]}}
+{"city":"Boulder City","state":"NV","latitude":35.9698,"longitude":-114.835,"geometry":{"type":"Point","coordinates":[-114.835,35.9698]}}
+{"city":"Carson City","state":"NV","latitude":39.1448,"longitude":-119.7664,"geometry":{"type":"Point","coordinates":[-119.7664,39.1448]}}
+{"city":"Elko","state":"NV","latitude":40.8324,"longitude":-115.7631,"geometry":{"type":"Point","coordinates":[-115.7631,40.8324]}}
+{"city":"Fallon","state":"NV","latitude":39.4725,"longitude":-118.7836,"geometry":{"type":"Point","coordinates":[-118.7836,39.4725]}}
+{"city":"Fernley","state":"NV","latitude":39.6027,"longitude":-119.2479,"geometry":{"type":"Point","coordinates":[-119.2479,39.6027]}}
+{"city":"Gardnerville","state":"NV","latitude":38.8976,"longitude":-119.7321,"geometry":{"type":"Point","coordinates":[-119.7321,38.8976]}}
+{"city":"Great Basin National Park","state":"NV","latitude":39.0053,"longitude":-114.2158,"geometry":{"type":"Point","coordinates":[-114.2158,39.0053]}}
+{"city":"Jean","state":"NV","latitude":35.7857,"longitude":-115.3571,"geometry":{"type":"Point","coordinates":[-115.3571,35.7857]}}
+{"city":"Las Vegas","state":"NV","latitude":36.206,"longitude":-115.223,"geometry":{"type":"Point","coordinates":[-115.223,36.206]}}
+{"city":"Mesquite","state":"NV","latitude":36.8159,"longitude":-114.0503,"geometry":{"type":"Point","coordinates":[-114.0503,36.8159]}}
+{"city":"Pahrump","state":"NV","latitude":36.2083,"longitude":-115.9839,"geometry":{"type":"Point","coordinates":[-115.9839,36.2083]}}
+{"city":"Reno-Sparks","state":"NV","latitude":39.5,"longitude":-119.7833,"geometry":{"type":"Point","coordinates":[-119.7833,39.5]}}
+{"city":"Adirondacks Region","state":"NY","latitude":44.271,"longitude":-74.2693,"geometry":{"type":"Point","coordinates":[-74.2693,44.271]}}
+{"city":"Central New York Region","state":"NY","latitude":42.8049,"longitude":-76.3589,"geometry":{"type":"Point","coordinates":[-76.3589,42.8049]}}
+{"city":"Eastern Lake Ontario Region","state":"NY","latitude":43.5263,"longitude":-76.8398,"geometry":{"type":"Point","coordinates":[-76.8398,43.5263]}}
+{"city":"Long Island","state":"NY","latitude":40.768,"longitude":-73.6202,"geometry":{"type":"Point","coordinates":[-73.6202,40.768]}}
+{"city":"Lower Hudson Valley Region","state":"NY","latitude":41.74,"longitude":-73.7654,"geometry":{"type":"Point","coordinates":[-73.7654,41.74]}}
+{"city":"New York City Region","state":"NY","latitude":40.8419,"longitude":-73.8359,"geometry":{"type":"Point","coordinates":[-73.8359,40.8419]}}
+{"city":"Upper Hudson Valley Region","state":"NY","latitude":42.5884,"longitude":-73.5646,"geometry":{"type":"Point","coordinates":[-73.5646,42.5884]}}
+{"city":"Western New York Region","state":"NY","latitude":42.6595,"longitude":-79.0628,"geometry":{"type":"Point","coordinates":[-79.0628,42.6595]}}
+{"city":"Canton and Massillon","state":"OH","latitude":40.7949,"longitude":-81.4576,"geometry":{"type":"Point","coordinates":[-81.4576,40.7949]}}
+{"city":"Cincinnati","state":"OH","latitude":39.104,"longitude":-84.523,"geometry":{"type":"Point","coordinates":[-84.523,39.104]}}
+{"city":"Cleveland-Akron-Lorain","state":"OH","latitude":41.0814,"longitude":-81.519,"geometry":{"type":"Point","coordinates":[-81.519,41.0814]}}
+{"city":"Columbus","state":"OH","latitude":39.989,"longitude":-82.987,"geometry":{"type":"Point","coordinates":[-82.987,39.989]}}
+{"city":"Dayton","state":"OH","latitude":39.7591,"longitude":-84.1913,"geometry":{"type":"Point","coordinates":[-84.1913,39.7591]}}
+{"city":"Lima","state":"OH","latitude":40.771,"longitude":-84.0538,"geometry":{"type":"Point","coordinates":[-84.0538,40.771]}}
+{"city":"Toledo","state":"OH","latitude":41.6441,"longitude":-83.5466,"geometry":{"type":"Point","coordinates":[-83.5466,41.6441]}}
+{"city":"Youngstown","state":"OH","latitude":41.0992,"longitude":-80.6464,"geometry":{"type":"Point","coordinates":[-80.6464,41.0992]}}
+{"city":"Ardmore","state":"OK","latitude":34.174,"longitude":-97.144,"geometry":{"type":"Point","coordinates":[-97.144,34.174]}}
+{"city":"Lawton","state":"OK","latitude":34.6,"longitude":-98.423,"geometry":{"type":"Point","coordinates":[-98.423,34.6]}}
+{"city":"McAlester","state":"OK","latitude":34.8856,"longitude":-95.7844,"geometry":{"type":"Point","coordinates":[-95.7844,34.8856]}}
+{"city":"Miami","state":"OK","latitude":36.9222,"longitude":-94.8389,"geometry":{"type":"Point","coordinates":[-94.8389,36.9222]}}
+{"city":"NW Oklahoma","state":"OK","latitude":36.1584,"longitude":-98.9319,"geometry":{"type":"Point","coordinates":[-98.9319,36.1584]}}
+{"city":"Oklahoma City","state":"OK","latitude":35.467,"longitude":-97.513,"geometry":{"type":"Point","coordinates":[-97.513,35.467]}}
+{"city":"Tulsa","state":"OK","latitude":36.128,"longitude":-95.916,"geometry":{"type":"Point","coordinates":[-95.916,36.128]}}
+{"city":"Albany","state":"OR","latitude":44.6157,"longitude":-123.0915,"geometry":{"type":"Point","coordinates":[-123.0915,44.6157]}}
+{"city":"Ashland","state":"OR","latitude":42.1941,"longitude":-122.7086,"geometry":{"type":"Point","coordinates":[-122.7086,42.1941]}}
+{"city":"Baker City","state":"OR","latitude":44.7882,"longitude":-117.8446,"geometry":{"type":"Point","coordinates":[-117.8446,44.7882]}}
+{"city":"Beaverton","state":"OR","latitude":45.4702,"longitude":-122.8159,"geometry":{"type":"Point","coordinates":[-122.8159,45.4702]}}
+{"city":"Bend and Redmond","state":"OR","latitude":44.0639,"longitude":-121.3126,"geometry":{"type":"Point","coordinates":[-121.3126,44.0639]}}
+{"city":"Brookings","state":"OR","latitude":42.05,"longitude":-124.29,"geometry":{"type":"Point","coordinates":[-124.29,42.05]}}
+{"city":"Burns","state":"OR","latitude":43.5893,"longitude":-119.0487,"geometry":{"type":"Point","coordinates":[-119.0487,43.5893]}}
+{"city":"Cave Junction","state":"OR","latitude":42.1617,"longitude":-123.6484,"geometry":{"type":"Point","coordinates":[-123.6484,42.1617]}}
+{"city":"Chiloquin","state":"OR","latitude":42.5776,"longitude":-121.8661,"geometry":{"type":"Point","coordinates":[-121.8661,42.5776]}}
+{"city":"Clackamas","state":"OR","latitude":45.41,"longitude":-122.57,"geometry":{"type":"Point","coordinates":[-122.57,45.41]}}
+{"city":"Coos, Lower Umpqua, and Siuslaw Indians of Oregon","state":"OR","latitude":43.3819,"longitude":-124.2639,"geometry":{"type":"Point","coordinates":[-124.2639,43.3819]}}
+{"city":"Corvallis","state":"OR","latitude":44.5884,"longitude":-123.2673,"geometry":{"type":"Point","coordinates":[-123.2673,44.5884]}}
+{"city":"Cottage Grove","state":"OR","latitude":43.7995,"longitude":-123.0535,"geometry":{"type":"Point","coordinates":[-123.0535,43.7995]}}
+{"city":"Cove","state":"OR","latitude":45.3009,"longitude":-117.8129,"geometry":{"type":"Point","coordinates":[-117.8129,45.3009]}}
+{"city":"Dallas","state":"OR","latitude":44.92,"longitude":-123.32,"geometry":{"type":"Point","coordinates":[-123.32,44.92]}}
+{"city":"Enterprise","state":"OR","latitude":45.4264,"longitude":-117.2961,"geometry":{"type":"Point","coordinates":[-117.2961,45.4264]}}
+{"city":"Estacada","state":"OR","latitude":45.29,"longitude":-122.33,"geometry":{"type":"Point","coordinates":[-122.33,45.29]}}
+{"city":"Eugene and Springfield","state":"OR","latitude":44.0264,"longitude":-123.0822,"geometry":{"type":"Point","coordinates":[-123.0822,44.0264]}}
+{"city":"Florence","state":"OR","latitude":43.9896,"longitude":-124.1093,"geometry":{"type":"Point","coordinates":[-124.1093,43.9896]}}
+{"city":"Grants Pass","state":"OR","latitude":42.434,"longitude":-123.348,"geometry":{"type":"Point","coordinates":[-123.348,42.434]}}
+{"city":"Hillsboro","state":"OR","latitude":45.5285,"longitude":-122.9724,"geometry":{"type":"Point","coordinates":[-122.9724,45.5285]}}
+{"city":"Hood River","state":"OR","latitude":45.7,"longitude":-121.53,"geometry":{"type":"Point","coordinates":[-121.53,45.7]}}
+{"city":"John Day","state":"OR","latitude":44.418,"longitude":-118.9513,"geometry":{"type":"Point","coordinates":[-118.9513,44.418]}}
+{"city":"Klamath Falls","state":"OR","latitude":42.1904,"longitude":-121.7313,"geometry":{"type":"Point","coordinates":[-121.7313,42.1904]}}
+{"city":"La Grande","state":"OR","latitude":45.3239,"longitude":-118.0939,"geometry":{"type":"Point","coordinates":[-118.0939,45.3239]}}
+{"city":"La Pine","state":"OR","latitude":43.67,"longitude":-121.5,"geometry":{"type":"Point","coordinates":[-121.5,43.67]}}
+{"city":"Lakeview","state":"OR","latitude":42.1892,"longitude":-120.354,"geometry":{"type":"Point","coordinates":[-120.354,42.1892]}}
+{"city":"Lyons","state":"OR","latitude":44.7787,"longitude":-122.617,"geometry":{"type":"Point","coordinates":[-122.617,44.7787]}}
+{"city":"Madras","state":"OR","latitude":44.6306,"longitude":-121.1317,"geometry":{"type":"Point","coordinates":[-121.1317,44.6306]}}
+{"city":"Medford","state":"OR","latitude":42.3142,"longitude":-122.8792,"geometry":{"type":"Point","coordinates":[-122.8792,42.3142]}}
+{"city":"NW Coast","state":"OR","latitude":45.4547,"longitude":-123.82,"geometry":{"type":"Point","coordinates":[-123.82,45.4547]}}
+{"city":"North Santiam Canyon","state":"OR","latitude":44.75,"longitude":-122.37,"geometry":{"type":"Point","coordinates":[-122.37,44.75]}}
+{"city":"Oakridge","state":"OR","latitude":43.7444,"longitude":-122.4806,"geometry":{"type":"Point","coordinates":[-122.4806,43.7444]}}
+{"city":"Ontario","state":"OR","latitude":44.02,"longitude":-116.96,"geometry":{"type":"Point","coordinates":[-116.96,44.02]}}
+{"city":"Pendleton","state":"OR","latitude":45.6522,"longitude":-118.823,"geometry":{"type":"Point","coordinates":[-118.823,45.6522]}}
+{"city":"Portland","state":"OR","latitude":45.538,"longitude":-122.656,"geometry":{"type":"Point","coordinates":[-122.656,45.538]}}
+{"city":"Prineville","state":"OR","latitude":44.2998,"longitude":-120.8448,"geometry":{"type":"Point","coordinates":[-120.8448,44.2998]}}
+{"city":"Roseburg","state":"OR","latitude":43.2266,"longitude":-123.3648,"geometry":{"type":"Point","coordinates":[-123.3648,43.2266]}}
+{"city":"Salem","state":"OR","latitude":44.9431,"longitude":-123.0059,"geometry":{"type":"Point","coordinates":[-123.0059,44.9431]}}
+{"city":"Sauvie Island","state":"OR","latitude":45.7,"longitude":-122.81,"geometry":{"type":"Point","coordinates":[-122.81,45.7]}}
+{"city":"Shady Cove","state":"OR","latitude":42.6232,"longitude":-122.8102,"geometry":{"type":"Point","coordinates":[-122.8102,42.6232]}}
+{"city":"Sisters","state":"OR","latitude":44.2921,"longitude":-121.5555,"geometry":{"type":"Point","coordinates":[-121.5555,44.2921]}}
+{"city":"Sweet Home","state":"OR","latitude":44.3958,"longitude":-122.7305,"geometry":{"type":"Point","coordinates":[-122.7305,44.3958]}}
+{"city":"The Dalles","state":"OR","latitude":45.6024,"longitude":-121.2034,"geometry":{"type":"Point","coordinates":[-121.2034,45.6024]}}
+{"city":"Toledo","state":"OR","latitude":44.62,"longitude":-123.94,"geometry":{"type":"Point","coordinates":[-123.94,44.62]}}
+{"city":"Altoona","state":"PA","latitude":40.5187,"longitude":-78.3947,"geometry":{"type":"Point","coordinates":[-78.3947,40.5187]}}
+{"city":"Erie","state":"PA","latitude":42.1292,"longitude":-80.0851,"geometry":{"type":"Point","coordinates":[-80.0851,42.1292]}}
+{"city":"Indiana County","state":"PA","latitude":40.6851,"longitude":-79.1097,"geometry":{"type":"Point","coordinates":[-79.1097,40.6851]}}
+{"city":"Johnstown","state":"PA","latitude":40.3267,"longitude":-78.922,"geometry":{"type":"Point","coordinates":[-78.922,40.3267]}}
+{"city":"Lehigh Valley","state":"PA","latitude":40.614,"longitude":-75.59,"geometry":{"type":"Point","coordinates":[-75.59,40.614]}}
+{"city":"Liberty-Clairton Area","state":"PA","latitude":40.3239,"longitude":-79.8683,"geometry":{"type":"Point","coordinates":[-79.8683,40.3239]}}
+{"city":"Mercer County","state":"PA","latitude":41.262,"longitude":-80.1875,"geometry":{"type":"Point","coordinates":[-80.1875,41.262]}}
+{"city":"Philadelphia","state":"PA","latitude":39.95,"longitude":-75.151,"geometry":{"type":"Point","coordinates":[-75.151,39.95]}}
+{"city":"Pittsburgh","state":"PA","latitude":40.434,"longitude":-79.984,"geometry":{"type":"Point","coordinates":[-79.984,40.434]}}
+{"city":"Scranton and Wilkes-Barre","state":"PA","latitude":41.3363,"longitude":-75.7274,"geometry":{"type":"Point","coordinates":[-75.7274,41.3363]}}
+{"city":"State College","state":"PA","latitude":40.7934,"longitude":-77.86,"geometry":{"type":"Point","coordinates":[-77.86,40.7934]}}
+{"city":"Susquehanna Valley","state":"PA","latitude":39.94,"longitude":-76.623,"geometry":{"type":"Point","coordinates":[-76.623,39.94]}}
+{"city":"Williamsport","state":"PA","latitude":41.2412,"longitude":-77.0011,"geometry":{"type":"Point","coordinates":[-77.0011,41.2412]}}
+{"city":"Catano","state":"PR","latitude":18.4284,"longitude":-66.1417,"geometry":{"type":"Point","coordinates":[-66.1417,18.4284]}}
+{"city":"Mayaguez","state":"PR","latitude":18.2141,"longitude":-67.1443,"geometry":{"type":"Point","coordinates":[-67.1443,18.2141]}}
+{"city":"Narragansett","state":"RI","latitude":41.4942,"longitude":-71.4219,"geometry":{"type":"Point","coordinates":[-71.4219,41.4942]}}
+{"city":"Providence","state":"RI","latitude":41.817,"longitude":-71.401,"geometry":{"type":"Point","coordinates":[-71.401,41.817]}}
+{"city":"West Greenwich","state":"RI","latitude":41.615,"longitude":-71.7197,"geometry":{"type":"Point","coordinates":[-71.7197,41.615]}}
+{"city":"Aiken-Augusta - SC and GA","state":"SC","latitude":33.37,"longitude":-81.97,"geometry":{"type":"Point","coordinates":[-81.97,33.37]}}
+{"city":"Catawba Indian Nation","state":"SC","latitude":34.9126,"longitude":-80.8743,"geometry":{"type":"Point","coordinates":[-80.8743,34.9126]}}
+{"city":"Charleston","state":"SC","latitude":32.8,"longitude":-79.95,"geometry":{"type":"Point","coordinates":[-79.95,32.8]}}
+{"city":"Columbia","state":"SC","latitude":34.039,"longitude":-80.886,"geometry":{"type":"Point","coordinates":[-80.886,34.039]}}
+{"city":"Florence and Darlington","state":"SC","latitude":34.18,"longitude":-79.72,"geometry":{"type":"Point","coordinates":[-79.72,34.18]}}
+{"city":"Greenville-Spartanburg","state":"SC","latitude":34.919,"longitude":-82.149,"geometry":{"type":"Point","coordinates":[-82.149,34.919]}}
+{"city":"Myrtle Beach-Conway","state":"SC","latitude":33.8005,"longitude":-78.9941,"geometry":{"type":"Point","coordinates":[-78.9941,33.8005]}}
+{"city":"York, Chester, and Lancaster","state":"SC","latitude":34.9392,"longitude":-81.0283,"geometry":{"type":"Point","coordinates":[-81.0283,34.9392]}}
+{"city":"Aberdeen","state":"SD","latitude":45.468,"longitude":-98.494,"geometry":{"type":"Point","coordinates":[-98.494,45.468]}}
+{"city":"Badlands","state":"SD","latitude":43.7456,"longitude":-101.9412,"geometry":{"type":"Point","coordinates":[-101.9412,43.7456]}}
+{"city":"Brookings","state":"SD","latitude":44.3486,"longitude":-96.8073,"geometry":{"type":"Point","coordinates":[-96.8073,44.3486]}}
+{"city":"Pierre","state":"SD","latitude":44.37,"longitude":-100.29,"geometry":{"type":"Point","coordinates":[-100.29,44.37]}}
+{"city":"Rapid City","state":"SD","latitude":44.0873,"longitude":-103.2737,"geometry":{"type":"Point","coordinates":[-103.2737,44.0873]}}
+{"city":"Sioux Falls","state":"SD","latitude":43.5479,"longitude":-96.7007,"geometry":{"type":"Point","coordinates":[-96.7007,43.5479]}}
+{"city":"Vermillion","state":"SD","latitude":42.78,"longitude":-96.93,"geometry":{"type":"Point","coordinates":[-96.93,42.78]}}
+{"city":"Wind Cave","state":"SD","latitude":43.5578,"longitude":-103.4839,"geometry":{"type":"Point","coordinates":[-103.4839,43.5578]}}
+{"city":"Athens","state":"TN","latitude":35.44,"longitude":-84.59,"geometry":{"type":"Point","coordinates":[-84.59,35.44]}}
+{"city":"Chattanooga","state":"TN","latitude":35.0433,"longitude":-85.31,"geometry":{"type":"Point","coordinates":[-85.31,35.0433]}}
+{"city":"Clarksville-Montgomery County","state":"TN","latitude":36.53,"longitude":-87.36,"geometry":{"type":"Point","coordinates":[-87.36,36.53]}}
+{"city":"Cookeville","state":"TN","latitude":36.16,"longitude":-85.5,"geometry":{"type":"Point","coordinates":[-85.5,36.16]}}
+{"city":"Dyersburg","state":"TN","latitude":36.03,"longitude":-89.38,"geometry":{"type":"Point","coordinates":[-89.38,36.03]}}
+{"city":"Great Smoky Mtns. Natl. Park - TN","state":"TN","latitude":35.6331,"longitude":-83.9415,"geometry":{"type":"Point","coordinates":[-83.9415,35.6331]}}
+{"city":"Jackson","state":"TN","latitude":35.61,"longitude":-88.81,"geometry":{"type":"Point","coordinates":[-88.81,35.61]}}
+{"city":"Knoxville","state":"TN","latitude":35.975,"longitude":-83.946,"geometry":{"type":"Point","coordinates":[-83.946,35.975]}}
+{"city":"Loretto","state":"TN","latitude":35.08,"longitude":-87.44,"geometry":{"type":"Point","coordinates":[-87.44,35.08]}}
+{"city":"Memphis","state":"TN","latitude":35.106,"longitude":-90.001,"geometry":{"type":"Point","coordinates":[-90.001,35.106]}}
+{"city":"Nashville","state":"TN","latitude":36.171,"longitude":-86.785,"geometry":{"type":"Point","coordinates":[-86.785,36.171]}}
+{"city":"Speedwell","state":"TN","latitude":36.46,"longitude":-83.87,"geometry":{"type":"Point","coordinates":[-83.87,36.46]}}
+{"city":"Tri-Cities","state":"TN","latitude":36.53,"longitude":-82.557,"geometry":{"type":"Point","coordinates":[-82.557,36.53]}}
+{"city":"Amarillo","state":"TX","latitude":35.222,"longitude":-101.8313,"geometry":{"type":"Point","coordinates":[-101.8313,35.222]}}
+{"city":"Austin","state":"TX","latitude":30.267,"longitude":-97.734,"geometry":{"type":"Point","coordinates":[-97.734,30.267]}}
+{"city":"Beaumont-Port Arthur","state":"TX","latitude":30.083,"longitude":-94.1,"geometry":{"type":"Point","coordinates":[-94.1,30.083]}}
+{"city":"Big Bend","state":"TX","latitude":29.3025,"longitude":-103.1781,"geometry":{"type":"Point","coordinates":[-103.1781,29.3025]}}
+{"city":"Brownsville-McAllen","state":"TX","latitude":26.19,"longitude":-97.69,"geometry":{"type":"Point","coordinates":[-97.69,26.19]}}
+{"city":"Bryan-College Station","state":"TX","latitude":30.6199,"longitude":-96.326,"geometry":{"type":"Point","coordinates":[-96.326,30.6199]}}
+{"city":"Corpus Christi","state":"TX","latitude":27.8,"longitude":-97.396,"geometry":{"type":"Point","coordinates":[-97.396,27.8]}}
+{"city":"Dallas-Fort Worth","state":"TX","latitude":32.767,"longitude":-96.783,"geometry":{"type":"Point","coordinates":[-96.783,32.767]}}
+{"city":"El Paso","state":"TX","latitude":31.8493,"longitude":-106.4375,"geometry":{"type":"Point","coordinates":[-106.4375,31.8493]}}
+{"city":"Houston-Galveston-Brazoria","state":"TX","latitude":29.751,"longitude":-95.351,"geometry":{"type":"Point","coordinates":[-95.351,29.751]}}
+{"city":"Laredo","state":"TX","latitude":27.5069,"longitude":-99.5079,"geometry":{"type":"Point","coordinates":[-99.5079,27.5069]}}
+{"city":"Lubbock","state":"TX","latitude":33.5961,"longitude":-101.8539,"geometry":{"type":"Point","coordinates":[-101.8539,33.5961]}}
+{"city":"Midland-Odessa","state":"TX","latitude":31.9974,"longitude":-102.0789,"geometry":{"type":"Point","coordinates":[-102.0789,31.9974]}}
+{"city":"San Antonio","state":"TX","latitude":29.417,"longitude":-98.484,"geometry":{"type":"Point","coordinates":[-98.484,29.417]}}
+{"city":"Tyler-Longview-Marshall","state":"TX","latitude":32.35,"longitude":-95.3,"geometry":{"type":"Point","coordinates":[-95.3,32.35]}}
+{"city":"Victoria","state":"TX","latitude":28.824,"longitude":-96.983,"geometry":{"type":"Point","coordinates":[-96.983,28.824]}}
+{"city":"Waco-Killeen","state":"TX","latitude":31.5558,"longitude":-97.1309,"geometry":{"type":"Point","coordinates":[-97.1309,31.5558]}}
+{"city":"Brigham City","state":"UT","latitude":41.5102,"longitude":-112.0156,"geometry":{"type":"Point","coordinates":[-112.0156,41.5102]}}
+{"city":"Canyonlands National Park","state":"UT","latitude":38.4583,"longitude":-109.8211,"geometry":{"type":"Point","coordinates":[-109.8211,38.4583]}}
+{"city":"Dinosaur National Monument","state":"UT","latitude":40.4372,"longitude":-109.3047,"geometry":{"type":"Point","coordinates":[-109.3047,40.4372]}}
+{"city":"Enoch","state":"UT","latitude":37.7432,"longitude":-113.0549,"geometry":{"type":"Point","coordinates":[-113.0549,37.7432]}}
+{"city":"Hurricane","state":"UT","latitude":37.1786,"longitude":-113.305,"geometry":{"type":"Point","coordinates":[-113.305,37.1786]}}
+{"city":"Logan","state":"UT","latitude":41.7391,"longitude":-111.8164,"geometry":{"type":"Point","coordinates":[-111.8164,41.7391]}}
+{"city":"Myton","state":"UT","latitude":40.1944,"longitude":-110.0618,"geometry":{"type":"Point","coordinates":[-110.0618,40.1944]}}
+{"city":"Ogden","state":"UT","latitude":41.2259,"longitude":-111.9722,"geometry":{"type":"Point","coordinates":[-111.9722,41.2259]}}
+{"city":"Ouray","state":"UT","latitude":40.0891,"longitude":-109.6774,"geometry":{"type":"Point","coordinates":[-109.6774,40.0891]}}
+{"city":"Price","state":"UT","latitude":39.5964,"longitude":-110.7704,"geometry":{"type":"Point","coordinates":[-110.7704,39.5964]}}
+{"city":"Provo","state":"UT","latitude":40.2334,"longitude":-111.6582,"geometry":{"type":"Point","coordinates":[-111.6582,40.2334]}}
+{"city":"Roosevelt","state":"UT","latitude":40.2943,"longitude":-110.009,"geometry":{"type":"Point","coordinates":[-110.009,40.2943]}}
+{"city":"Salt Lake City","state":"UT","latitude":40.777,"longitude":-111.93,"geometry":{"type":"Point","coordinates":[-111.93,40.777]}}
+{"city":"Timpanogos Cave National Monument","state":"UT","latitude":40.4419,"longitude":-111.7134,"geometry":{"type":"Point","coordinates":[-111.7134,40.4419]}}
+{"city":"Tooele","state":"UT","latitude":40.5309,"longitude":-112.2983,"geometry":{"type":"Point","coordinates":[-112.2983,40.5309]}}
+{"city":"Vernal","state":"UT","latitude":40.4555,"longitude":-109.5288,"geometry":{"type":"Point","coordinates":[-109.5288,40.4555]}}
+{"city":"Whiterocks","state":"UT","latitude":40.468,"longitude":-109.9307,"geometry":{"type":"Point","coordinates":[-109.9307,40.468]}}
+{"city":"Zion National Park","state":"UT","latitude":37.1983,"longitude":-113.1506,"geometry":{"type":"Point","coordinates":[-113.1506,37.1983]}}
+{"city":"Charlottesville","state":"VA","latitude":38.03,"longitude":-78.48,"geometry":{"type":"Point","coordinates":[-78.48,38.03]}}
+{"city":"Fredericksburg","state":"VA","latitude":38.3,"longitude":-77.46,"geometry":{"type":"Point","coordinates":[-77.46,38.3]}}
+{"city":"Giles Co.","state":"VA","latitude":37.33,"longitude":-80.74,"geometry":{"type":"Point","coordinates":[-80.74,37.33]}}
+{"city":"Hampton Roads","state":"VA","latitude":36.9,"longitude":-76.19,"geometry":{"type":"Point","coordinates":[-76.19,36.9]}}
+{"city":"Harrisonburg","state":"VA","latitude":38.45,"longitude":-78.87,"geometry":{"type":"Point","coordinates":[-78.87,38.45]}}
+{"city":"Natural Bridge","state":"VA","latitude":37.63,"longitude":-79.54,"geometry":{"type":"Point","coordinates":[-79.54,37.63]}}
+{"city":"Northern Virginia","state":"VA","latitude":38.834,"longitude":-77.276,"geometry":{"type":"Point","coordinates":[-77.276,38.834]}}
+{"city":"Prince Edward Co.","state":"VA","latitude":37.23,"longitude":-78.44,"geometry":{"type":"Point","coordinates":[-78.44,37.23]}}
+{"city":"Richmond","state":"VA","latitude":37.531,"longitude":-77.475,"geometry":{"type":"Point","coordinates":[-77.475,37.531]}}
+{"city":"Roanoke","state":"VA","latitude":37.278,"longitude":-79.958,"geometry":{"type":"Point","coordinates":[-79.958,37.278]}}
+{"city":"Shenandoah National Park","state":"VA","latitude":38.5231,"longitude":-78.4347,"geometry":{"type":"Point","coordinates":[-78.4347,38.5231]}}
+{"city":"Winchester","state":"VA","latitude":39.15,"longitude":-78.15,"geometry":{"type":"Point","coordinates":[-78.15,39.15]}}
+{"city":"Wythe Co.","state":"VA","latitude":36.95,"longitude":-81.08,"geometry":{"type":"Point","coordinates":[-81.08,36.95]}}
+{"city":"Bennington","state":"VT","latitude":42.8975,"longitude":-73.2508,"geometry":{"type":"Point","coordinates":[-73.2508,42.8975]}}
+{"city":"Burlington","state":"VT","latitude":44.467,"longitude":-73.201,"geometry":{"type":"Point","coordinates":[-73.201,44.467]}}
+{"city":"Rutland","state":"VT","latitude":43.6083,"longitude":-72.9822,"geometry":{"type":"Point","coordinates":[-72.9822,43.6083]}}
+{"city":"Vermont Mountain Valley Locations","state":"VT","latitude":44.26,"longitude":-72.58,"geometry":{"type":"Point","coordinates":[-72.58,44.26]}}
+{"city":"Aberdeen","state":"WA","latitude":46.9725,"longitude":-123.8317,"geometry":{"type":"Point","coordinates":[-123.8317,46.9725]}}
+{"city":"Anacortes","state":"WA","latitude":48.5205,"longitude":-122.6142,"geometry":{"type":"Point","coordinates":[-122.6142,48.5205]}}
+{"city":"Bellingham","state":"WA","latitude":48.7625,"longitude":-122.4419,"geometry":{"type":"Point","coordinates":[-122.4419,48.7625]}}
+{"city":"Bremerton-Silverdale-Bainbridge Island","state":"WA","latitude":47.64,"longitude":-122.647,"geometry":{"type":"Point","coordinates":[-122.647,47.64]}}
+{"city":"Cascade foothills of King County","state":"WA","latitude":47.4902,"longitude":-121.7727,"geometry":{"type":"Point","coordinates":[-121.7727,47.4902]}}
+{"city":"Cascade foothills of east King-Pierce counties","state":"WA","latitude":47.1411,"longitude":-121.9367,"geometry":{"type":"Point","coordinates":[-121.9367,47.1411]}}
+{"city":"Cheeka Peak","state":"WA","latitude":48.3,"longitude":-124.6263,"geometry":{"type":"Point","coordinates":[-124.6263,48.3]}}
+{"city":"Chehalis","state":"WA","latitude":46.6641,"longitude":-122.9673,"geometry":{"type":"Point","coordinates":[-122.9673,46.6641]}}
+{"city":"Chelan","state":"WA","latitude":47.8386,"longitude":-120.0231,"geometry":{"type":"Point","coordinates":[-120.0231,47.8386]}}
+{"city":"Clarkston","state":"WA","latitude":46.4255,"longitude":-117.0597,"geometry":{"type":"Point","coordinates":[-117.0597,46.4255]}}
+{"city":"Colville","state":"WA","latitude":48.5447,"longitude":-117.9036,"geometry":{"type":"Point","coordinates":[-117.9036,48.5447]}}
+{"city":"Confederated Tribes and Bands of Yakama Nations","state":"WA","latitude":46.3802,"longitude":-120.3327,"geometry":{"type":"Point","coordinates":[-120.3327,46.3802]}}
+{"city":"Custer","state":"WA","latitude":48.916,"longitude":-122.639,"geometry":{"type":"Point","coordinates":[-122.639,48.916]}}
+{"city":"Darrington","state":"WA","latitude":48.248,"longitude":-121.6032,"geometry":{"type":"Point","coordinates":[-121.6032,48.248]}}
+{"city":"Dayton","state":"WA","latitude":46.318,"longitude":-117.985,"geometry":{"type":"Point","coordinates":[-117.985,46.318]}}
+{"city":"Ellensburg","state":"WA","latitude":46.9936,"longitude":-120.545,"geometry":{"type":"Point","coordinates":[-120.545,46.9936]}}
+{"city":"Everett-Marysville-Lynnwood","state":"WA","latitude":48.0551,"longitude":-122.1758,"geometry":{"type":"Point","coordinates":[-122.1758,48.0551]}}
+{"city":"Kennewick","state":"WA","latitude":46.2183,"longitude":-119.2015,"geometry":{"type":"Point","coordinates":[-119.2015,46.2183]}}
+{"city":"Lacrosse","state":"WA","latitude":46.8153,"longitude":-117.8739,"geometry":{"type":"Point","coordinates":[-117.8739,46.8153]}}
+{"city":"Leavenworth","state":"WA","latitude":47.5988,"longitude":-120.6647,"geometry":{"type":"Point","coordinates":[-120.6647,47.5988]}}
+{"city":"Longview","state":"WA","latitude":46.1427,"longitude":-122.9556,"geometry":{"type":"Point","coordinates":[-122.9556,46.1427]}}
+{"city":"Makah Indian Tribe of Makah Indian Reservation","state":"WA","latitude":48.3661,"longitude":-124.61,"geometry":{"type":"Point","coordinates":[-124.61,48.3661]}}
+{"city":"Maple Falls","state":"WA","latitude":48.9477,"longitude":-122.1471,"geometry":{"type":"Point","coordinates":[-122.1471,48.9477]}}
+{"city":"Mesa","state":"WA","latitude":46.5754,"longitude":-119.0021,"geometry":{"type":"Point","coordinates":[-119.0021,46.5754]}}
+{"city":"Moses Lake","state":"WA","latitude":47.1303,"longitude":-119.2726,"geometry":{"type":"Point","coordinates":[-119.2726,47.1303]}}
+{"city":"Mount Vernon","state":"WA","latitude":48.41,"longitude":-122.3375,"geometry":{"type":"Point","coordinates":[-122.3375,48.41]}}
+{"city":"Mt. Rainier","state":"WA","latitude":46.7841,"longitude":-121.7403,"geometry":{"type":"Point","coordinates":[-121.7403,46.7841]}}
+{"city":"Newport","state":"WA","latitude":48.18,"longitude":-117.043,"geometry":{"type":"Point","coordinates":[-117.043,48.18]}}
+{"city":"Oak Harbor","state":"WA","latitude":48.293,"longitude":-122.6594,"geometry":{"type":"Point","coordinates":[-122.6594,48.293]}}
+{"city":"Olympia-Lacey-Tumwater","state":"WA","latitude":47.0292,"longitude":-122.8213,"geometry":{"type":"Point","coordinates":[-122.8213,47.0292]}}
+{"city":"Omak","state":"WA","latitude":48.3999,"longitude":-119.519,"geometry":{"type":"Point","coordinates":[-119.519,48.3999]}}
+{"city":"Pomeroy","state":"WA","latitude":46.47,"longitude":-117.61,"geometry":{"type":"Point","coordinates":[-117.61,46.47]}}
+{"city":"Port Angeles","state":"WA","latitude":48.1164,"longitude":-123.4644,"geometry":{"type":"Point","coordinates":[-123.4644,48.1164]}}
+{"city":"Port Townsend","state":"WA","latitude":48.1292,"longitude":-122.7794,"geometry":{"type":"Point","coordinates":[-122.7794,48.1292]}}
+{"city":"Pullman","state":"WA","latitude":46.7245,"longitude":-117.1801,"geometry":{"type":"Point","coordinates":[-117.1801,46.7245]}}
+{"city":"Quincy","state":"WA","latitude":47.24,"longitude":-119.85,"geometry":{"type":"Point","coordinates":[-119.85,47.24]}}
+{"city":"Raymond","state":"WA","latitude":46.6855,"longitude":-123.7272,"geometry":{"type":"Point","coordinates":[-123.7272,46.6855]}}
+{"city":"Ritzville","state":"WA","latitude":47.12,"longitude":-118.3819,"geometry":{"type":"Point","coordinates":[-118.3819,47.12]}}
+{"city":"Rosalia","state":"WA","latitude":47.2314,"longitude":-117.3686,"geometry":{"type":"Point","coordinates":[-117.3686,47.2314]}}
+{"city":"Seattle-Bellevue-Kent Valley","state":"WA","latitude":47.562,"longitude":-122.3405,"geometry":{"type":"Point","coordinates":[-122.3405,47.562]}}
+{"city":"Shelton","state":"WA","latitude":47.2256,"longitude":-123.115,"geometry":{"type":"Point","coordinates":[-123.115,47.2256]}}
+{"city":"Spokane","state":"WA","latitude":47.65,"longitude":-117.4167,"geometry":{"type":"Point","coordinates":[-117.4167,47.65]}}
+{"city":"Spokane Tribe of Spokane Reservation","state":"WA","latitude":47.8853,"longitude":-117.9887,"geometry":{"type":"Point","coordinates":[-117.9887,47.8853]}}
+{"city":"Sunnyside","state":"WA","latitude":46.3203,"longitude":-119.9981,"geometry":{"type":"Point","coordinates":[-119.9981,46.3203]}}
+{"city":"Tacoma-Puyallup","state":"WA","latitude":47.1864,"longitude":-122.4517,"geometry":{"type":"Point","coordinates":[-122.4517,47.1864]}}
+{"city":"Twisp","state":"WA","latitude":48.3645,"longitude":-120.1211,"geometry":{"type":"Point","coordinates":[-120.1211,48.3645]}}
+{"city":"Vancouver","state":"WA","latitude":45.6336,"longitude":-122.6028,"geometry":{"type":"Point","coordinates":[-122.6028,45.6336]}}
+{"city":"Walla Walla","state":"WA","latitude":46.0558,"longitude":-118.3514,"geometry":{"type":"Point","coordinates":[-118.3514,46.0558]}}
+{"city":"Wenatchee","state":"WA","latitude":47.4122,"longitude":-120.3183,"geometry":{"type":"Point","coordinates":[-120.3183,47.4122]}}
+{"city":"Winthrop","state":"WA","latitude":48.4772,"longitude":-120.1906,"geometry":{"type":"Point","coordinates":[-120.1906,48.4772]}}
+{"city":"Yacolt","state":"WA","latitude":45.8656,"longitude":-122.4069,"geometry":{"type":"Point","coordinates":[-122.4069,45.8656]}}
+{"city":"Yakima","state":"WA","latitude":46.5949,"longitude":-120.5122,"geometry":{"type":"Point","coordinates":[-120.5122,46.5949]}}
+{"city":"Ashland County","state":"WI","latitude":46.6023,"longitude":-90.6561,"geometry":{"type":"Point","coordinates":[-90.6561,46.6023]}}
+{"city":"Dane, Columbia, and Sauk Counties","state":"WI","latitude":43.2314,"longitude":-89.3956,"geometry":{"type":"Point","coordinates":[-89.3956,43.2314]}}
+{"city":"Dodge and Fond du Lac Counties","state":"WI","latitude":43.5768,"longitude":-88.5216,"geometry":{"type":"Point","coordinates":[-88.5216,43.5768]}}
+{"city":"Eau Claire County","state":"WI","latitude":44.7625,"longitude":-91.4145,"geometry":{"type":"Point","coordinates":[-91.4145,44.7625]}}
+{"city":"Grant County","state":"WI","latitude":42.693,"longitude":-90.9681,"geometry":{"type":"Point","coordinates":[-90.9681,42.693]}}
+{"city":"Kenosha and Racine Counties","state":"WI","latitude":42.6258,"longitude":-87.8306,"geometry":{"type":"Point","coordinates":[-87.8306,42.6258]}}
+{"city":"La Crosse County","state":"WI","latitude":43.7775,"longitude":-91.2269,"geometry":{"type":"Point","coordinates":[-91.2269,43.7775]}}
+{"city":"Marathon and Taylor Counties","state":"WI","latitude":44.957,"longitude":-90.1846,"geometry":{"type":"Point","coordinates":[-90.1846,44.957]}}
+{"city":"Milwaukee and South Ozaukee Counties","state":"WI","latitude":43.107,"longitude":-87.9207,"geometry":{"type":"Point","coordinates":[-87.9207,43.107]}}
+{"city":"North Ozaukee and Sheboygan Counties","state":"WI","latitude":43.6604,"longitude":-87.7729,"geometry":{"type":"Point","coordinates":[-87.7729,43.6604]}}
+{"city":"Outagamie and Brown Counties","state":"WI","latitude":44.4486,"longitude":-88.0988,"geometry":{"type":"Point","coordinates":[-88.0988,44.4486]}}
+{"city":"Vilas and Forest Counties","state":"WI","latitude":45.8085,"longitude":-89.2313,"geometry":{"type":"Point","coordinates":[-89.2313,45.8085]}}
+{"city":"Waukesha and Jefferson Counties","state":"WI","latitude":43.0118,"longitude":-88.5217,"geometry":{"type":"Point","coordinates":[-88.5217,43.0118]}}
+{"city":"Charleston","state":"WV","latitude":38.3458,"longitude":-81.6283,"geometry":{"type":"Point","coordinates":[-81.6283,38.3458]}}
+{"city":"Huntington","state":"WV","latitude":38.4253,"longitude":-82.4253,"geometry":{"type":"Point","coordinates":[-82.4253,38.4253]}}
+{"city":"Moundsville","state":"WV","latitude":39.9158,"longitude":-80.7342,"geometry":{"type":"Point","coordinates":[-80.7342,39.9158]}}
+{"city":"Parkersburg","state":"WV","latitude":39.325,"longitude":-81.5522,"geometry":{"type":"Point","coordinates":[-81.5522,39.325]}}
+{"city":"Weirton","state":"WV","latitude":40.4273,"longitude":-80.5925,"geometry":{"type":"Point","coordinates":[-80.5925,40.4273]}}
+{"city":"Big Horn County","state":"WY","latitude":44.28,"longitude":-108.04,"geometry":{"type":"Point","coordinates":[-108.04,44.28]}}
+{"city":"Big Piney","state":"WY","latitude":42.49,"longitude":-110.1,"geometry":{"type":"Point","coordinates":[-110.1,42.49]}}
+{"city":"Boulder","state":"WY","latitude":42.7462,"longitude":-109.7206,"geometry":{"type":"Point","coordinates":[-109.7206,42.7462]}}
+{"city":"Casper","state":"WY","latitude":42.82,"longitude":-106.37,"geometry":{"type":"Point","coordinates":[-106.37,42.82]}}
+{"city":"Cheyenne","state":"WY","latitude":41.18,"longitude":-104.78,"geometry":{"type":"Point","coordinates":[-104.78,41.18]}}
+{"city":"Cody","state":"WY","latitude":44.5263,"longitude":-109.0565,"geometry":{"type":"Point","coordinates":[-109.0565,44.5263]}}
+{"city":"Daniel South","state":"WY","latitude":42.79,"longitude":-110.05,"geometry":{"type":"Point","coordinates":[-110.05,42.79]}}
+{"city":"Douglas","state":"WY","latitude":42.76,"longitude":-105.38,"geometry":{"type":"Point","coordinates":[-105.38,42.76]}}
+{"city":"Gillette","state":"WY","latitude":44.29,"longitude":-105.5,"geometry":{"type":"Point","coordinates":[-105.5,44.29]}}
+{"city":"Jackson","state":"WY","latitude":43.4799,"longitude":-110.7624,"geometry":{"type":"Point","coordinates":[-110.7624,43.4799]}}
+{"city":"Johnson County","state":"WY","latitude":43.87,"longitude":-106.51,"geometry":{"type":"Point","coordinates":[-106.51,43.87]}}
+{"city":"Juel Spring","state":"WY","latitude":42.37,"longitude":-109.56,"geometry":{"type":"Point","coordinates":[-109.56,42.37]}}
+{"city":"Lander","state":"WY","latitude":42.833,"longitude":-108.7307,"geometry":{"type":"Point","coordinates":[-108.7307,42.833]}}
+{"city":"Laramie","state":"WY","latitude":41.3,"longitude":-105.59,"geometry":{"type":"Point","coordinates":[-105.59,41.3]}}
+{"city":"Medicine Bow National Forest","state":"WY","latitude":41.36,"longitude":-106.24,"geometry":{"type":"Point","coordinates":[-106.24,41.36]}}
+{"city":"Moxa Arch","state":"WY","latitude":41.7506,"longitude":-109.7897,"geometry":{"type":"Point","coordinates":[-109.7897,41.7506]}}
+{"city":"Newcastle","state":"WY","latitude":43.88,"longitude":-104.19,"geometry":{"type":"Point","coordinates":[-104.19,43.88]}}
+{"city":"Pinedale","state":"WY","latitude":42.87,"longitude":-109.87,"geometry":{"type":"Point","coordinates":[-109.87,42.87]}}
+{"city":"Rock Springs","state":"WY","latitude":41.5926,"longitude":-109.2201,"geometry":{"type":"Point","coordinates":[-109.2201,41.5926]}}
+{"city":"Sheridan","state":"WY","latitude":44.8,"longitude":-106.96,"geometry":{"type":"Point","coordinates":[-106.96,44.8]}}
+{"city":"Upper Green River Basin","state":"WY","latitude":42.7,"longitude":-109.9,"geometry":{"type":"Point","coordinates":[-109.9,42.7]}}
+{"city":"Wamsutter","state":"WY","latitude":41.68,"longitude":-108.02,"geometry":{"type":"Point","coordinates":[-108.02,41.68]}}
+{"city":"Casa Grande","state":"AZ","latitude":32.877583,"longitude":-111.752222,"geometry":{"type":"Point","coordinates":[-111.752222,32.877583]}}
+{"city":"Pinal County","state":"AZ","latitude":32.877583,"longitude":-111.752222,"geometry":{"type":"Point","coordinates":[-111.752222,32.877583]}}
+{"city":"Apache Junction","state":"AZ","latitude":33.421406,"longitude":-111.543596,"geometry":{"type":"Point","coordinates":[-111.543596,33.421406]}}
+{"city":"Pinal Air Park","state":"AZ","latitude":32.508308,"longitude":-111.30806,"geometry":{"type":"Point","coordinates":[-111.30806,32.508308]}}
+{"city":"Stanfield","state":"AZ","latitude":32.881195,"longitude":-111.961998,"geometry":{"type":"Point","coordinates":[-111.961998,32.881195]}}
+{"city":"San Tan Valley","state":"AZ","latitude":33.2192,"longitude":-111.5608,"geometry":{"type":"Point","coordinates":[-111.5608,33.2192]}}
+{"city":"Pinal County Housing","state":"AZ","latitude":32.891056,"longitude":-111.570503,"geometry":{"type":"Point","coordinates":[-111.570503,32.891056]}}
+{"city":"Eloy","state":"AZ","latitude":32.757639,"longitude":-111.554861,"geometry":{"type":"Point","coordinates":[-111.554861,32.757639]}}
+{"city":"Hidden Valley","state":"AZ","latitude":32.884761,"longitude":-112.03705,"geometry":{"type":"Point","coordinates":[-112.03705,32.884761]}}
+{"city":"City of Maricopa","state":"AZ","latitude":33.06115,"longitude":-112.05204,"geometry":{"type":"Point","coordinates":[-112.05204,33.06115]}}
+{"city":"Queen Valley","state":"AZ","latitude":33.289398,"longitude":-111.292801,"geometry":{"type":"Point","coordinates":[-111.292801,33.289398]}}
+{"city":"Memphis","state":"AR","latitude":35.1967,"longitude":-90.1911,"geometry":{"type":"Point","coordinates":[-90.1911,35.1967]}}
+{"city":"Metropolitan Washington","state":"DC","latitude":38.895683,"longitude":-76.958089,"geometry":{"type":"Point","coordinates":[-76.958089,38.895683]}}
+{"city":"Northern Virginia","state":"DC","latitude":38.895683,"longitude":-76.958089,"geometry":{"type":"Point","coordinates":[-76.958089,38.895683]}}
+{"city":"Aiken-Augusta - SC and GA","state":"GA","latitude":33.4333,"longitude":-82.0219,"geometry":{"type":"Point","coordinates":[-82.0219,33.4333]}}
+{"city":"Terre Haute","state":"IL","latitude":39.210857,"longitude":-87.668297,"geometry":{"type":"Point","coordinates":[-87.668297,39.210857]}}
+{"city":"Louisville","state":"IN","latitude":38.393823,"longitude":-85.664118,"geometry":{"type":"Point","coordinates":[-85.664118,38.393823]}}
+{"city":"Kansas City","state":"KS","latitude":38.8386,"longitude":-94.7464,"geometry":{"type":"Point","coordinates":[-94.7464,38.8386]}}
+{"city":"Clarksville-Montgomery County","state":"KY","latitude":36.911667,"longitude":-87.323608,"geometry":{"type":"Point","coordinates":[-87.323608,36.911667]}}
+{"city":"Metropolitan Washington","state":"MD","latitude":39.114399,"longitude":-77.106903,"geometry":{"type":"Point","coordinates":[-77.106903,39.114399]}}
+{"city":"Northern Virginia","state":"MD","latitude":39.114399,"longitude":-77.106903,"geometry":{"type":"Point","coordinates":[-77.106903,39.114399]}}
+{"city":"Winchester","state":"MD","latitude":39.565601,"longitude":-77.721901,"geometry":{"type":"Point","coordinates":[-77.721901,39.565601]}}
+{"city":"Memphis","state":"MS","latitude":34.820633,"longitude":-89.987782,"geometry":{"type":"Point","coordinates":[-89.987782,34.820633]}}
+{"city":"El Dorado Springs","state":"MO","latitude":37.70097,"longitude":-94.03474,"geometry":{"type":"Point","coordinates":[-94.03474,37.70097]}}
+{"city":"Red River Valley North","state":"ND","latitude":46.933601,"longitude":-96.854698,"geometry":{"type":"Point","coordinates":[-96.854698,46.933601]}}
+{"city":"Red River Valley South","state":"ND","latitude":46.933601,"longitude":-96.854698,"geometry":{"type":"Point","coordinates":[-96.854698,46.933601]}}
+{"city":"Hermiston","state":"OR","latitude":45.828968,"longitude":-119.262991,"geometry":{"type":"Point","coordinates":[-119.262991,45.828968]}}
+{"city":"Metropolitan Washington","state":"VA","latitude":38.8577,"longitude":-77.05922,"geometry":{"type":"Point","coordinates":[-77.05922,38.8577]}}
+{"city":"Yellowstone National Park","state":"WY","latitude":44.5597,"longitude":-110.4006,"geometry":{"type":"Point","coordinates":[-110.4006,44.5597]}}
+{"city":"Watertown","state":"SD","latitude":44.89965,"longitude":-97.128802,"geometry":{"type":"Point","coordinates":[-97.128802,44.89965]}}
+{"city":"Weeping Water","state":"NE","latitude":40.866225,"longitude":-96.137447,"geometry":{"type":"Point","coordinates":[-96.137447,40.866225]}}
+{"city":"Bonne Terre","state":"MO","latitude":37.90084,"longitude":-90.42388,"geometry":{"type":"Point","coordinates":[-90.42388,37.90084]}}
+{"city":"Jefferson City","state":"MO","latitude":38.70608,"longitude":-92.09308,"geometry":{"type":"Point","coordinates":[-92.09308,38.70608]}}
+{"city":"Farrar","state":"MO","latitude":37.70264,"longitude":-89.69864,"geometry":{"type":"Point","coordinates":[-89.69864,37.70264]}}
+{"city":"Owensboro","state":"KY","latitude":37.9389,"longitude":-86.8969,"geometry":{"type":"Point","coordinates":[-86.8969,37.9389]}}
+{"city":"Alba","state":"MO","latitude":37.2385,"longitude":-94.42468,"geometry":{"type":"Point","coordinates":[-94.42468,37.2385]}}
+{"city":"Columbia","state":"MO","latitude":39.07803,"longitude":-92.316322,"geometry":{"type":"Point","coordinates":[-92.316322,39.07803]}}
+{"city":"Martinsburg","state":"WV","latitude":39.465599,"longitude":-77.958298,"geometry":{"type":"Point","coordinates":[-77.958298,39.465599]}}
+{"city":"Winchester","state":"WV","latitude":39.465599,"longitude":-77.958298,"geometry":{"type":"Point","coordinates":[-77.958298,39.465599]}}
+{"city":"Greenbrier County","state":"WV","latitude":37.9081,"longitude":-80.632797,"geometry":{"type":"Point","coordinates":[-80.632797,37.9081]}}
+{"city":"Morgantown","state":"WV","latitude":39.648899,"longitude":-79.921097,"geometry":{"type":"Point","coordinates":[-79.921097,39.648899]}}
+{"city":"Wheeling","state":"WV","latitude":40.1147,"longitude":-80.700798,"geometry":{"type":"Point","coordinates":[-80.700798,40.1147]}}
+{"city":"Pisgah","state":"IA","latitude":41.832199,"longitude":-95.928101,"geometry":{"type":"Point","coordinates":[-95.928101,41.832199]}}
+{"city":"Meridian","state":"MS","latitude":32.364345,"longitude":-88.73145,"geometry":{"type":"Point","coordinates":[-88.73145,32.364345]}}
+{"city":"Tupelo","state":"MS","latitude":34.264849,"longitude":-88.766842,"geometry":{"type":"Point","coordinates":[-88.766842,34.264849]}}
+{"city":"Dalton","state":"GA","latitude":34.785,"longitude":-84.6269,"geometry":{"type":"Point","coordinates":[-84.6269,34.785]}}
+{"city":"Great Smoky Mtns. Natl. Park - TN","state":"NC","latitude":35.587144,"longitude":-83.074156,"geometry":{"type":"Point","coordinates":[-83.074156,35.587144]}}
+{"city":"Knoxville","state":"NC","latitude":35.587144,"longitude":-83.074156,"geometry":{"type":"Point","coordinates":[-83.074156,35.587144]}}
+{"city":"Shoshone-Bannock Tribes of Fort Hall Reservation","state":"ID","latitude":42.589833,"longitude":-112.458889,"geometry":{"type":"Point","coordinates":[-112.458889,42.589833]}}
+{"city":"Indian Springs","state":"NV","latitude":36.569333,"longitude":-115.676651,"geometry":{"type":"Point","coordinates":[-115.676651,36.569333]}}
+{"city":"Cool","state":"CA","latitude":38.89094,"longitude":-121.00337,"geometry":{"type":"Point","coordinates":[-121.00337,38.89094]}}
+{"city":"Door County","state":"WI","latitude":45.2378,"longitude":-86.9936,"geometry":{"type":"Point","coordinates":[-86.9936,45.2378]}}
+{"city":"Manitowoc and Kewaunee Counties","state":"WI","latitude":44.4428,"longitude":-87.5061,"geometry":{"type":"Point","coordinates":[-87.5061,44.4428]}}
+{"city":"Mississippi River Valley","state":"WI","latitude":43.7781,"longitude":-91.225,"geometry":{"type":"Point","coordinates":[-91.225,43.7781]}}
+{"city":"Walworth and Rock Counties","state":"WI","latitude":42.51831,"longitude":-89.06347,"geometry":{"type":"Point","coordinates":[-89.06347,42.51831]}}
+{"city":"Taholah","state":"WA","latitude":47.339802,"longitude":-124.291801,"geometry":{"type":"Point","coordinates":[-124.291801,47.339802]}}
+{"city":"Portland","state":"WA","latitude":45.6166,"longitude":-122.516602,"geometry":{"type":"Point","coordinates":[-122.516602,45.6166]}}
+{"city":"Broadus","state":"MT","latitude":45.440295,"longitude":-105.37028,"geometry":{"type":"Point","coordinates":[-105.37028,45.440295]}}

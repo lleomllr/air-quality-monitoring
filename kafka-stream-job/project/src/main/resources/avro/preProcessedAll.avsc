@@ -1,0 +1,19 @@
+{
+  "namespace": "com.type.avro",
+  "type": "record",
+  "name": "PreProcessedSchema",
+  "fields": [
+    {"name": "time",
+      "type": {
+        "type": "long",
+        "logicalType": "timestamp-millis"
+      }
+    },
+    {"name": "city",  "type": "string"},
+    {"name": "state", "type": "string"},
+    {"name": "pollutant","type": "string"},
+    {"name": "aqi", "type": "int"},
+    {"name": "concentration", "type": "double"},
+    {"name": "category", "type": "string"}
+  ]
+}

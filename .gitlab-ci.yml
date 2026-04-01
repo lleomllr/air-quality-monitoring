@@ -1,0 +1,96 @@
+stages:
+  - verify
+  - test
+  - package
+  - build_check
+
+default:
+  interruptible: true
+  cache:
+    paths:
+      - .m2/repository
+      - .npm/
+
+variables:
+  MAVEN_OPTS: "-Dmaven.repo.local=$CI_PROJECT_DIR/.m2/repository"
+  NPM_CONFIG_CACHE: "$CI_PROJECT_DIR/.npm"
+
+frontend_verify:
+  stage: verify
+  image: node:20
+  script:
+    - cd frontend
+    # Utilisation de --legacy-peer-deps pour les conflits de dépendances de test
+    - npm ci --legacy-peer-deps
+    - npm run lint
+    # Exécution des tests (le mot-clé 'run' empêche le mode 'watch' qui bloquerait la pipeline)
+    - npx vitest run --environment jsdom
+    - npm run build
+  rules:
+    - if: $CI_COMMIT_BRANCH
+
+backend_test:
+  stage: test
+  image: maven:3.9.9-eclipse-temurin-17
+  script:
+    - cd backend
+    - mvn $MAVEN_OPTS clean test
+  artifacts:
+    when: always
+    reports:
+      junit: backend/target/surefire-reports/*.xml
+
+kafka_job_test:
+  stage: test
+  image: maven:3.9.9-eclipse-temurin-17
+  script:
+    - cd kafka-stream-job/project
+    - mvn $MAVEN_OPTS clean test
+  rules:
+    - exists:
+        - kafka-stream-job/project/pom.xml
+
+backend_package:
+  stage: package
+  image: maven:3.9.9-eclipse-temurin-17
+  script:
+    - cd backend
+    - mvn $MAVEN_OPTS -DskipTests package
+  artifacts:
+    when: always
+    paths:
+      - backend/target/*.jar
+  rules:
+    - if: $CI_COMMIT_BRANCH
+
+kafka_job_package:
+  stage: package
+  image: maven:3.9.9-eclipse-temurin-17
+  script:
+    - cd kafka-stream-job/project
+    - mvn $MAVEN_OPTS -DskipTests package
+  artifacts:
+    when: always
+    paths:
+      - kafka-stream-job/project/target/*-jar-with-dependencies.jar
+  rules:
+    - exists:
+        - kafka-stream-job/project/pom.xml
+
+docker_check:
+  stage: build_check
+  image:
+    name: gcr.io/kaniko-project/executor:v1.23.2-debug
+    entrypoint: [""]
+  needs:
+    - job: backend_package
+      artifacts: true
+    - job: kafka_job_package
+      artifacts: true
+  allow_failure: true
+  script:
+    - /kaniko/executor --context "$CI_PROJECT_DIR/backend" --dockerfile "$CI_PROJECT_DIR/backend/Dockerfile" --destination "local/check-back:$CI_COMMIT_SHORT_SHA" --no-push
+    - /kaniko/executor --context "$CI_PROJECT_DIR/frontend" --dockerfile "$CI_PROJECT_DIR/frontend/Dockerfile" --destination "local/check-front:$CI_COMMIT_SHORT_SHA" --no-push
+    - /kaniko/executor --context "$CI_PROJECT_DIR/kafka-stream-job/project" --dockerfile "$CI_PROJECT_DIR/kafka-stream-job/project/Dockerfile" --destination "local/check-kafka:$CI_COMMIT_SHORT_SHA" --no-push
+  rules:
+    - if: $CI_COMMIT_BRANCH

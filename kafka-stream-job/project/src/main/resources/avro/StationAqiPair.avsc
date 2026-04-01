@@ -1,0 +1,10 @@
+{
+  "namespace": "com.type.avro",
+  "type": "record",
+  "name": "StationAqiPair",
+  "fields": [
+    {"name": "stationId", "type": {"type": "string", "avro.java.string": "String"}},
+    {"name": "aqi", "type": "double"}, 
+    {"name": "pollutant", "type": {"type": "string", "avro.java.string": "String"}, "default": "Unknown"}
+  ]
+}

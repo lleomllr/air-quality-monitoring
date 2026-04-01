@@ -1,0 +1,159 @@
+# Root .gitignore for stream_processing_airnow
+
+# .md files
+*.md
+!README.md
+
+# docs perso
+docs/
+
+./metals
+.metals/metals.lock.db.metals/
+.metals/metals.lock.db
+.metals/metals.mv.db
+
+# scripts (testing)
+
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors / IDEs
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+out/
+
+### Java ###
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Maven Kafka Generated Files
+.kafka-stream-job/project/target/
+/kafka-stream-job/plugins/confluentinc-kafka-connect-jdbc/assets/confluent.png
+/kafka-stream-job/plugins/confluentinc-kafka-connect-jdbc/assets/jdbc.jpg
+/kafka-stream-job/plugins/kaliy-kafka-connect-rss/assets/kaliy_logo.jpg
+/kafka-stream-job/plugins/confluentinc-kafka-connect-jdbc/doc/LICENSE
+/kafka-stream-job/plugins/kaliy-kafka-connect-rss/doc/LICENSE
+/kafka-stream-job/plugins/confluentinc-kafka-connect-jdbc/doc/licenses/LICENSE-kafka-connect-jdbc-10.0.0-SNAPSHOT.txt
+/kafka-stream-job/plugins/confluentinc-kafka-connect-jdbc/doc/licenses/LICENSE-mssql-jdbc-8.4.1.jre8.txt
+/kafka-stream-job/plugins/confluentinc-kafka-connect-jdbc/doc/licenses/LICENSE-ojdbc8-19.7.0.0.txt
+/kafka-stream-job/plugins/confluentinc-kafka-connect-jdbc/doc/licenses/LICENSE-ons-19.7.0.0.txt
+/kafka-stream-job/plugins/confluentinc-kafka-connect-jdbc/doc/licenses/LICENSE-oraclepki-19.7.0.0.txt
+/kafka-stream-job/plugins/confluentinc-kafka-connect-jdbc/doc/licenses/LICENSE-orai18n-19.7.0.0.txt
+/kafka-stream-job/plugins/confluentinc-kafka-connect-jdbc/doc/licenses/LICENSE-osdt_cert-19.7.0.0.txt
+/kafka-stream-job/plugins/confluentinc-kafka-connect-jdbc/doc/licenses/LICENSE-osdt_core-19.7.0.0.txt
+/kafka-stream-job/plugins/confluentinc-kafka-connect-jdbc/doc/licenses/LICENSE-postgresql-42.2.10.txt
+/kafka-stream-job/plugins/confluentinc-kafka-connect-jdbc/doc/licenses/LICENSE-simplefan-19.7.0.0.txt
+/kafka-stream-job/plugins/confluentinc-kafka-connect-jdbc/doc/licenses/LICENSE-sqlite-jdbc-3.25.2.txt
+/kafka-stream-job/plugins/confluentinc-kafka-connect-jdbc/doc/licenses/LICENSE-ucp-19.7.0.0.txt
+/kafka-stream-job/plugins/confluentinc-kafka-connect-jdbc/doc/licenses/LICENSE-xdb-19.7.0.0.txt
+/kafka-stream-job/plugins/confluentinc-kafka-connect-jdbc/doc/licenses/LICENSE-xmlparserv2-19.7.0.0.txt
+/kafka-stream-job/plugins/confluentinc-kafka-connect-jdbc/doc/licenses.html
+/kafka-stream-job/plugins/confluentinc-kafka-connect-jdbc/manifest.json
+/kafka-stream-job/plugins/kaliy-kafka-connect-rss/manifest.json
+/kafka-stream-job/project/.mvn/wrapper/maven-wrapper.properties
+/kafka-stream-job/project/mvnw.cmd
+/kafka-stream-job/plugins/confluentinc-kafka-connect-jdbc/doc/NOTICE
+/kafka-stream-job/plugins/confluentinc-kafka-connect-jdbc/doc/README.md
+/kafka-stream-job/plugins/kaliy-kafka-connect-rss/doc/README.md
+/kafka-stream-job/plugins/kaliy-kafka-connect-rss/etc/rss-source-connector-sample.properties
+/kafka-stream-job/plugins/kaliy-kafka-connect-rss/assets/rss_logo.png
+/kafka-stream-job/plugins/confluentinc-kafka-connect-jdbc/etc/sink-quickstart-sqlite.properties
+/kafka-stream-job/plugins/confluentinc-kafka-connect-jdbc/etc/source-quickstart-sqlite.properties
+/kafka-stream-job/plugins/confluentinc-kafka-connect-jdbc/doc/version.txt
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+replay_pid*
+
+### Maven ###
+backend/target
+target/
+target/generated-sources/
+target/generated-test-sources/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+# https://github.com/takari/maven-wrapper#usage-without-binary-jar
+.mvn/wrapper/maven-wrapper.jar
+*.lst
+# Generated sources
+generated-sources/
+generated-test-sources/
+
+# Node / Frontend
+node_modules/
+frontend/node_modules/
+dist/
+build/
+frontend/dist/
+frontend/build/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Vite / dev
+.vite/
+
+# Docker
+.docker/
+*.tar
+docker-compose.override.yml
+.env
+.env.*
+
+# Secrets / keys
+secrets/
+*.pem
+*.key
+
+# Temporary files
+*.swp
+*.tmp
+*.bak
+*~
+
+# OS temp
+tmp/
+temp/
+
+# Local config
+local.properties
+
+# Misc
+.vagrant/
+
+*.parquet
+*.csv
+# End of file

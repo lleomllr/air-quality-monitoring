@@ -1,0 +1,13 @@
+{
+  "namespace": "com.type.avro",
+  "type": "record",
+  "name": "AnomalyAlert",
+  "fields": [
+    {"name": "stationId", "type": {"type": "string", "avro.java.string": "String"}},
+    {"name": "pollutant", "type": {"type": "string", "avro.java.string": "String"}},
+    {"name": "aqi", "type": "double"},
+    {"name": "expectedAqi", "type": "double"},
+    {"name": "zScore", "type": "double"},
+    {"name": "timestamp", "type": "long"}
+  ]
+}

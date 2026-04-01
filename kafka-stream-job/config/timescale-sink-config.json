@@ -1,0 +1,66 @@
+{
+  "name": "timescale-sink-connector",
+  "config": {
+    "connector.class": "io.confluent.connect.jdbc.JdbcSinkConnector",
+    "tasks.max": "1",
+
+    "topics": "avg-state-hour,avg-city-hour,avg-state-8-hour,avg-city-8-hour,avg-state-day,avg-city-day,max-state-hour,max-city-hour",
+
+    "connection.url": "jdbc:postgresql://timescaledb:5432/db_airquality",
+    "connection.user": "admin",
+    "connection.password": "admin",
+
+    "insert.mode": "insert",
+    "auto.create": "false",
+    "auto.evolve": "false",
+    "pk.mode": "none",
+
+    "table.name.format": "aqi.${topic}",
+    "consumer.override.auto.offset.reset": "latest",
+
+    "key.converter": "org.apache.kafka.connect.storage.StringConverter",
+    "key.converter.schemas.enable": "false",
+
+    "value.converter": "io.confluent.connect.avro.AvroConverter",
+    "value.converter.schema.registry.url": "http://schema-registry:8081",
+    "value.converter.schemas.enable": "true",
+
+    "errors.log.enable": "true",
+    "errors.log.include.messages": "true",
+
+    "transforms": "route_avg_city_hour,route_avg_state_hour,route_avg_city_8_hour,route_avg_state_8_hour,route_avg_city_day,route_avg_state_day,route_max_city_hour,route_max_state_hour",
+
+    "transforms.route_avg_city_hour.type": "org.apache.kafka.connect.transforms.RegexRouter",
+    "transforms.route_avg_city_hour.regex": "avg-city-hour",
+    "transforms.route_avg_city_hour.replacement": "avg_city_hour",
+
+    "transforms.route_avg_state_hour.type": "org.apache.kafka.connect.transforms.RegexRouter",
+    "transforms.route_avg_state_hour.regex": "avg-state-hour",
+    "transforms.route_avg_state_hour.replacement": "avg_state_hour",
+
+    "transforms.route_avg_city_8_hour.type": "org.apache.kafka.connect.transforms.RegexRouter",
+    "transforms.route_avg_city_8_hour.regex": "avg-city-8-hour",
+    "transforms.route_avg_city_8_hour.replacement": "avg_city_8_hour",
+
+    "transforms.route_avg_state_8_hour.type": "org.apache.kafka.connect.transforms.RegexRouter",
+    "transforms.route_avg_state_8_hour.regex": "avg-state-8-hour",
+    "transforms.route_avg_state_8_hour.replacement": "avg_state_8_hour",
+
+    "transforms.route_avg_city_day.type": "org.apache.kafka.connect.transforms.RegexRouter",
+    "transforms.route_avg_city_day.regex": "avg-city-day",
+    "transforms.route_avg_city_day.replacement": "avg_city_day",
+
+    "transforms.route_avg_state_day.type": "org.apache.kafka.connect.transforms.RegexRouter",
+    "transforms.route_avg_state_day.regex": "avg-state-day",
+    "transforms.route_avg_state_day.replacement": "avg_state_day",
+
+    "transforms.route_max_city_hour.type": "org.apache.kafka.connect.transforms.RegexRouter",
+    "transforms.route_max_city_hour.regex": "max-city-hour",
+    "transforms.route_max_city_hour.replacement": "max_city_hour",
+
+    "transforms.route_max_state_hour.type": "org.apache.kafka.connect.transforms.RegexRouter",
+    "transforms.route_max_state_hour.regex": "max-state-hour",
+    "transforms.route_max_state_hour.replacement": "max_state_hour"
+
+  }
+}

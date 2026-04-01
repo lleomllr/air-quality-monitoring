@@ -1,0 +1,26 @@
+﻿services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: backend
+    container_name: backend
+    ports:
+      - "8095:8085"
+    environment:
+      SPRING_DATASOURCE_CLIENT_JDBC_URL: jdbc:postgresql://postgres:5432/clients
+      SPRING_DATASOURCE_CLIENT_USERNAME: admin
+      SPRING_DATASOURCE_CLIENT_PASSWORD: admin
+      SPRING_DATASOURCE_TIMESCALE_JDBC_URL: jdbc:postgresql://timescaledb:5432/db_airquality
+      SPRING_DATASOURCE_TIMESCALE_USERNAME: admin
+      SPRING_DATASOURCE_TIMESCALE_PASSWORD: admin
+      SPRING_KAFKA_BOOTSTRAP_SERVERS: kafka:9092
+      # Pour l'environnement local, laisser Hibernate créer / mettre à jour le schéma si besoin
+      SPRING_JPA_HBM2DDL_AUTO: update
+    depends_on:
+      - timescaledb
+      - postgres
+      - kafka
+    networks:
+      - backend-network
+      - kafka-network

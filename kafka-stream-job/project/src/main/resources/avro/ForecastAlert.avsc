@@ -1,0 +1,14 @@
+{
+  "namespace": "com.type.avro",
+  "type": "record",
+  "name": "ForecastAlert",
+  "fields": [
+    {"name": "stationId", "type": {"type": "string", "avro.java.string": "String"}},
+    {"name": "pollutant", "type": {"type": "string", "avro.java.string": "String"}},
+    {"name": "currentAqi", "type": "double"},
+    {"name": "predictedAqi", "type": "double"},
+    {"name": "trend", "type": "double"},
+    {"name": "forecastSteps", "type": "int"},
+    {"name": "timestamp", "type": "long"}
+  ]
+}

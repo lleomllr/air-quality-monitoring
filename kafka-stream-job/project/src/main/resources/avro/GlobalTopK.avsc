@@ -1,0 +1,17 @@
+{
+  "namespace": "com.type.avro",
+  "type": "record",
+  "name": "GlobalTopK",
+  "fields": [
+    {"name": "maxK", "type": "int", "default": 10},
+    {
+      "name": "topReadings", 
+      "type": {
+        "type": "map", 
+        "values": "StationAqiPair",
+        "avro.java.string": "String"
+      }, 
+      "default": {}
+    }
+  ]
+}

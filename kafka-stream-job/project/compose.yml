@@ -1,0 +1,106 @@
+x-kafka-image: &kafka-image
+  image: consumer-image:1.0
+  build:
+    context: .
+    dockerfile: Dockerfile
+
+services:
+  rss-parser:
+    <<: *kafka-image
+    command: ["com.parsing.StreamParser"]
+    container_name: rss-parser
+    depends_on:
+      kafka-create-topics:
+        condition: service_completed_successfully
+    networks:
+      - kafka-network
+
+  ozone-avg:
+    <<: *kafka-image
+    command: ["com.processing.avg.OzoneAVG"]
+    container_name: ozone-avg
+    depends_on:
+      kafka-create-topics:
+        condition: service_completed_successfully
+    networks:
+      - kafka-network
+
+  pm10-avg:
+    <<: *kafka-image
+    command: ["com.processing.avg.PM10AVG"]
+    container_name: pm10-avg
+    depends_on:
+      kafka-create-topics:
+        condition: service_completed_successfully
+    networks:
+      - kafka-network
+
+  pm25-avg:
+    <<: *kafka-image
+    command: ["com.processing.avg.PM25AVG"]
+    container_name: pm25-avg
+    depends_on:
+      kafka-create-topics:
+        condition: service_completed_successfully
+    networks:
+      - kafka-network
+
+  ozone-max:
+    <<: *kafka-image
+    command: ["com.processing.max.OzoneMAX"]
+    container_name: ozone-max
+    depends_on:
+      kafka-create-topics:
+        condition: service_completed_successfully
+    networks:
+      - kafka-network
+
+  pm10-max:
+    <<: *kafka-image
+    command: ["com.processing.max.PM10MAX"]
+    container_name: pm10-max
+    depends_on:
+      kafka-create-topics:
+        condition: service_completed_successfully
+    networks:
+      - kafka-network
+
+  pm25-max:
+    <<: *kafka-image
+    command: ["com.processing.max.PM25MAX"]
+    container_name: pm25-max
+    depends_on:
+      kafka-create-topics:
+        condition: service_completed_successfully
+    networks:
+      - kafka-network
+
+  alerts:
+    <<: *kafka-image
+    command: ["com.alerting.AlertConsumer"]
+    container_name: alerts
+    depends_on:
+      kafka-create-topics:
+        condition: service_completed_successfully
+    networks:
+      - kafka-network
+
+  aqi-topk:
+    <<: *kafka-image
+    command: ["com.processing.topk.AQIGlobalTopK"]
+    container_name: aqi-topk
+    depends_on:
+      kafka-create-topics:
+        condition: service_completed_successfully
+    networks:
+      - kafka-network
+
+  aqi-anomaly-detection-v1:
+    <<: *kafka-image
+    command: ["com.processing.anomaly.EMAZscore"]
+    container_name: aqi-anomaly-detection-v1
+    depends_on:
+      kafka-create-topics:
+        condition: service_completed_successfully
+    networks:
+      - kafka-network

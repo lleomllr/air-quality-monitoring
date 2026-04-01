@@ -1,0 +1,20 @@
+{
+  "namespace": "com.type.avro",
+  "type": "record",
+  "name": "StationAnalysisState",
+  "fields": [
+    {"name": "stationId", "type": {"type": "string", "avro.java.string": "String"}},
+    {"name": "pollutant", "type": {"type": "string", "avro.java.string": "String"}},
+    {"name": "currentAqi", "type": "double", "default": 0.0},
+    {"name": "count", "type": "long", "default": 0},
+    {"name": "ema", "type": "double", "default": 0.0},
+    {"name": "emvar", "type": "double", "default": 0.0},
+    {"name": "lastZScore", "type": "double", "default": 0.0},
+    {"name": "isAnomaly", "type": "boolean", "default": false},
+    {"name": "ema1", "type": "double", "default": 0.0},
+    {"name": "ema2", "type": "double", "default": 0.0},
+    {"name": "predictedAqi", "type": "double", "default": 0.0},
+    {"name": "trend", "type": "double", "default": 0.0},
+    {"name": "isForecastAlert", "type": "boolean", "default": false}
+  ]
+}

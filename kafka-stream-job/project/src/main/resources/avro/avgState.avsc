@@ -1,0 +1,24 @@
+{
+  "namespace": "com.type.avro",
+  "type": "record",
+  "name": "AvgStateSchema",
+  "fields": [
+    {
+      "name": "time_start",
+      "type": {
+        "type": "long",
+        "logicalType": "timestamp-millis"
+      }
+    },
+    {
+      "name": "time_end",
+      "type": {
+        "type": "long",
+        "logicalType": "timestamp-millis"
+      }
+    },
+    {"name": "state", "type": "string"},
+    {"name": "pollutant","type": "string"},
+    {"name": "aqi", "type": "double"}
+  ]
+}
